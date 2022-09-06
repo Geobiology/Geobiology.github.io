@@ -8,7 +8,7 @@ tags: [Biointeractions]
 comments: true
 ---
 
-Trace fossils left by predators on skeletons of their prey, including drillholes, repair scars, fractures, and tooth marks, are the most powerful direct indicators on predator-prey interactions available in the fossil record For instance, predatory drillholes can provide valuable behavioral information regarding selectivity of predatory attacks in terms of prey species, prey size, or drilling location on the prey skeleton (site-selectivity).
+Trace fossils left by predators on skeletons of their prey, including drillholes, repair scars, fractures, and tooth marks, are the most powerful direct indicators on predator-prey interactions available in the fossil record. Predatory drillholes can provide valuable information regarding selectivity of predatory attacks in terms of prey species, prey size, or drilling location on the prey skeleton.
 
 **Here is some bold text**
 
