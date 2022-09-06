@@ -21,19 +21,3 @@ Figure 2. Graphical output from the distance-based statistics estimated on moder
 
 Graphical output from the distance-based statistics estimated on the fossil samples, modern beach-collected samples, and laboratory feeding trials
 We illustrate the SPPAT approach through case studies of fossil samples, modern beach samples, and modern experiments of gastropod predation on bivalve prey. SPPAT provides information on spatiotemporal changes in site-selectivity patterns of drilling predators, including variation in alternative shell-drilling behaviors, useful for understanding predator behavior and anti-predatory responses of prey. The SPPAT approach is transferrable to a wide spectrum of paleoecologic and taphonomic data such as encrustation and bioerosion, allowing for standardized investigation of a wide range of biotic interactions.
-
-
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
