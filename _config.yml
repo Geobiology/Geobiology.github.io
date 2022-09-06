@@ -22,8 +22,7 @@ author: Alexis Rojas
 navbar-links:
   Home: "aboutme"
   Research:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - HAT Project: "https://blogs.helsinki.fi/hatresearch/about/"
   Publications: "https://deanattali.com"
 
 ################
