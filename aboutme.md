@@ -1,16 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Alexis Rojas
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a geologist, a paleontologist, and a network scientists. My research program is focused on understanding the interactions between plate tectonics, climate, and evolution of life as a complex system phenomenon. This interdisciplinary approach combines stratigraphy, paleobiology, and network science to address specific questions on spatiotemporal aspects of the fossil record.
