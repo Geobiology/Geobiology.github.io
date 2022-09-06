@@ -1,7 +1,7 @@
 ---
 layout: post
-title: SPPAT - Spatial point pattern analysis of traces
-subtitle: Each post also has a subtitle
+title: SPPAT
+subtitle: Spatial point pattern analysis of traces
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
