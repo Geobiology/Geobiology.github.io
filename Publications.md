@@ -10,7 +10,7 @@ Eriksson, A., Edler, D., Rojas, A., and Rosvall, M. 2021: Mapping flows on hyper
 
 Rojas, A., Gregory, P. D.,  Kowalewski, M., Roger W. P., Hendy, H., and Blackburn, J. K.  Spatial point pattern analysis of traces (SPPAT): an approach for visualizing and quantifying site-selectivity patterns of drilling predators. In press doi:10.1017/pab.2020.15
 
-Rojas, A., Gracia, A., Hernández-Ávila, I., Patarroyo, P. and Kowalewski, M. Occurrence of the brachiopod Tichosina in deep-sea coral bottoms of the Caribbean Sea and its paleoenvironmental implications. bioRxiv 866186 doi.org/10.1101/866186
+Rojas, A., Gracia, A., Hernández-Ávila, I., Patarroyo, P. and Kowalewski, M. Occurrence of the brachiopod Tichosina in deep-sea coral bottoms of the Caribbean Sea and its paleoenvironmental implications. bioRxiv 866186 https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/35/2022/02/Vol59_No1_Archival-2.pdf
 
 [2019]
 
