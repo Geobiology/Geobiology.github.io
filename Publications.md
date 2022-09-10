@@ -1,7 +1,7 @@
 
 [2022]
 
-Pilotto, F., Rojas, A., and Buckland, P. I. (2022). Late Holocene anthropogenic landscape change in northwestern Europe impacted insect biodiversity as much as climate change did after the last Ice Age. Proc. R. Soc. B. 289, 20212734. doi: 10.1098/rspb.2021.2734.
+Pilotto, F., <b>Rojas</b>, <b>A</b>., and Buckland, P. I. (2022). Late Holocene anthropogenic landscape change in northwestern Europe impacted insect biodiversity as much as climate change did after the last Ice Age. Proc. R. Soc. B. 289, 20212734. doi: 10.1098/rspb.2021.2734.
 
 Rojas, A., Gracia, A., Hernández-Ávila, I., Patarroyo, P., and Kowalewski, M. (2022). Occurrence of the brachiopod Tichosina in deep-sea coral bottoms of the Caribbean Sea and its paleoenvironmental implications. Bulletin of the Florida Museum of Natural History 59, 1–15. doi: 10.1101/2020.06.24.168658.
 
