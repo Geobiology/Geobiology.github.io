@@ -2,7 +2,7 @@
 
 Rojas, A., Calatayud, J., Kowalewski, M. et al. 2021: A multiscale view of the Phanerozoic fossil record reveals the three major biotic transitions. Commun Biol 4, 309. https://doi.org/10.1038/s42003-021-01805-y
 
-Calatayud, J., Neuman, M., Rojas, A., Eriksson, A., and Rosvall, M. 2021 Regularities in species’ niches reveal the world’s climate regions. eLife10, e58397 (2021). doi: 10.7554/eLife.58397
+Calatayud, J., Neuman, M., Rojas, A., Eriksson, A., and Rosvall, M. 2021 Regularities in species’ niches reveal the world’s climate regions. eLife10, e58397 (2021). [doi: 10.7554/eLife.58397](https://elifesciences.org/articles/58397)
 
 Eriksson, A., Edler, D., Rojas, A., and Rosvall, M. 2021: Mapping flows on hypergraphs. under review in Communications Physics (March 12, 2021). arXiv:2101.00656
 
