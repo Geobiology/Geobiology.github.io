@@ -11,7 +11,7 @@ Calatayud, J., Neuman, M., <b>Rojas</b>, <b>A</b>., Eriksson, A., and Rosvall, M
 
 <b>Rojas</b>, <b>A</b>., Calatayud, J., Kowalewski, M., Neuman, M., and Rosvall, M. (2021). A multiscale view of the Phanerozoic fossil record reveals the three major biotic transitions. Commun Biol 4, 309. doi: 10.1038/s42003-021-01805-y. 
 
-Eriksson, A., Edler, D., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2021). Mapping flows on hypergraphs. arXiv:2101.00656 [physics]. Available at: http://arxiv.org/abs/2101.00656 
+Eriksson, A., Edler, D., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2021). Mapping flows on hypergraphs. arXiv:2101.00656 [physics].
 
 Eriksson, A., Edler, D., <b>Rojas</b>, <b>A</b>., de Domenico, M., and Rosvall, M. (2021). How choosing random-walk model and network representation matters for flow-based community detection in hypergraphs. Commun Phys 4, 133. doi: 10.1038/s42005-021-00634-z.
 
@@ -40,7 +40,8 @@ Sandy, M. R., and <b>Rojas</b>, <b>A</b>. (2018). Paleobiogeographic affinities,
 [2015]
 
 Garcia, J., Oyuela-Caycedo, A., and <b>Rojas</b>, <b>A</b>. (2015). Holocene Paleoclimate Reconstruction from δ18O Isotopes of Neocyclotus Opercula a Morphometric Analysis of Variation at the Archaic Site of San Jacinto 1. in (San Francisco, CA: Society for American Archaeology). doi: tDAR id: 395000.
-Rojas, A., Gracia, A., and Patarroyo, P. (2015). Brachiopods from off the San Bernardo Archipelago (Colombian Caribbean), with comments on specific synonymies in Tichosina Cooper, 1977. Zootaxa 3914, 55. doi: 10.11646/zootaxa.3914.1.3.
+
+<b>Rojas</b>, <b>A</b>., Gracia, A., and Patarroyo, P. (2015). Brachiopods from off the San Bernardo Archipelago (Colombian Caribbean), with comments on specific synonymies in Tichosina Cooper, 1977. Zootaxa 3914, 55. doi: 10.11646/zootaxa.3914.1.3.
 
 <b>Rojas</b>, <b>A</b>., Hendy, A., and Dietl, G. P. (2015). Edge-drilling behavior in the predatory gastropod Notocochlis unifasciata (Lamarck, 1822) (Caenogastropoda, Naticidae) from the Pacific coast of Panama: taxonomic and biogeographical implications. Vita Malacologica, 63–72. 
 
@@ -50,7 +51,8 @@ Schemm-Gregory, M., <b>Rojas-Briceño, A</b>., Patarroyo, P., and Jaramillo, C. 
 
 <i>Between 2009 and 2012 I worked for the Panama Geology Project -PIRE, a unique opportunity for understanding the impacts that the emergence of the Isthmus of Panama had on ancient marine and terrestrial biotas, presented by the Panama Canal expansion. Located at the Panama Canal Authority (ACP) facilities, I organized, curated, cataloged and imaged (all by myself!) a significant proportion of the more of 100.000 specimens recovered during the Panama Canal excavations, and coordinated their use for research. After that, I joined the Invertebrate Paleontology Division of the Florida Museum of Natural History as PhD student.</i>
 
-Vega, F. J., Nyborg, T., Kovalchuk, G., Luque, J., <b>Rojas-Briceño, A</b>., Patarroyo, P., et al. (2010). On some Panamerican Cretaceous crabs (Decapoda: Raninoida). Boletín de la Sociedad Geológica Mexicana 62, 263–279. Available at: http://www.jstor.org/stable/24921180.
+Vega, F. J., Nyborg, T., Kovalchuk, G., Luque, J., <b>Rojas-Briceño, A</b>., Patarroyo, P., et al. (2010). On some Panamerican Cretaceous crabs (Decapoda: Raninoida). Boletín de la Sociedad Geológica Mexicana 62, 263–279.
 
 Vega, F. J., Nyborg, T., <b>Rojas-Briceño, A</b>., Patarroyo, P., Luque, J., Porras-MÃozquiz, H., et al. (2007). Upper Cretaceous Crustacea from Mexico and Colombia: similar faunas and environments during Turonian times. Revista mexicana de ciencias geolÃ3gicas 24, 403–422. 
-Patarroyo, P., and Rojas, A. (2007). La sucesión y la fauna del Turoniano de la Formación San Rafael en pesca y su comparación con la sección tipo en Samacá (Boyacá- Colombia-s.a.). Geologia Colombiana, 89–96.
+
+Patarroyo, P., and <b>Rojas</b>, <b>A</b>. (2007). La sucesión y la fauna del Turoniano de la Formación San Rafael en pesca y su comparación con la sección tipo en Samacá (Boyacá- Colombia-s.a.). Geologia Colombiana, 89–96.
