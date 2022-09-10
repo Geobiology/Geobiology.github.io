@@ -1,5 +1,4 @@
-
-![Images Papers](https://user-images.githubusercontent.com/57350440/189502609-ac57f0e3-3230-45ac-a0f5-b346615bb1d8.jpg)
+![Images Papers - Copy](https://user-images.githubusercontent.com/57350440/189502826-a0b1d2d1-9ec6-43f2-ac2b-b0769ceb95e0.jpg)
 
 [2022]
 
