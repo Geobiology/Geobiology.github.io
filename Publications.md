@@ -13,13 +13,13 @@ Calatayud, J., Neuman, M., <b>Rojas</b>, <b>A</b>., Eriksson, A., and Rosvall, M
 
 <b>Rojas</b>, <b>A</b>., Calatayud, J., Kowalewski, M., Neuman, M., and Rosvall, M. (2021). A multiscale view of the Phanerozoic fossil record reveals the three major biotic transitions. Commun Biol 4, 309. doi: 10.1038/s42003-021-01805-y. 
 
-Eriksson, A., Edler, D., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2021). Mapping flows on hypergraphs. arXiv:2101.00656 [physics].
-
 Eriksson, A., Edler, D., <b>Rojas</b>, <b>A</b>., de Domenico, M., and Rosvall, M. (2021). How choosing random-walk model and network representation matters for flow-based community detection in hypergraphs. Commun Phys 4, 133. doi: 10.1038/s42005-021-00634-z.
 
 [2020]
 
 <b>Rojas</b>, <b>A</b>., Dietl, G. P., Kowalewski, M., Portell, R. W., Hendy, A., and Blackburn, J. K. (2020). Spatial point pattern analysis of traces (SPPAT): An approach for visualizing and quantifying site-selectivity patterns of drilling predators. Paleobiology 46, 259–271. doi: 10.1017/pab.2020.15.
+
+Eriksson, A., Edler, D., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2021). Mapping flows on hypergraphs. arXiv:2101.00656 [physics].
 
 [2019]
 
@@ -49,7 +49,9 @@ Garcia, J., Oyuela-Caycedo, A., and <b>Rojas</b>, <b>A</b>. (2015). Holocene Pal
 
 Schemm-Gregory, M., <b>Rojas-Briceño, A</b>., Patarroyo, P., and Jaramillo, C. (2012). First report of  <i>Hadrosia</i> Cooper, 1983 in South America and its biostratigraphical and palaeobiogeographical implications. Cretaceous Research 34, 257–267. doi: 10.1016/j.cretres.2011.11.005.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <i>Between 2009 and 2012 I worked for the Panama Geology Project -PIRE, a unique opportunity for understanding the impacts that the emergence of the Isthmus of Panama had on ancient marine and terrestrial biotas, presented by the Panama Canal expansion. Located at the Panama Canal Authority (ACP) facilities, I organized, curated, cataloged and imaged (all by myself!) a significant proportion of the more of 100.000 specimens recovered during the Panama Canal excavations, and coordinated their use for research. After that, I joined the Invertebrate Paleontology Division of the Florida Museum of Natural History as PhD student.</i>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Vega, F. J., Nyborg, T., Kovalchuk, G., Luque, J., <b>Rojas-Briceño, A</b>., Patarroyo, P., et al. (2010). On some Panamerican Cretaceous crabs (Decapoda: Raninoida). Boletín de la Sociedad Geológica Mexicana 62, 263–279.
 
