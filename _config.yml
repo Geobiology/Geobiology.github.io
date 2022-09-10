@@ -23,7 +23,7 @@ navbar-links:
   Home: "aboutme"
   Research:
     - HAT Project: "https://blogs.helsinki.fi/hatresearch/about/"
-  Publications: "https://deanattali.com"
+  Publications: "https://github.com/Geobiology/Geobiology.github.io/blob/master/Publications.md"
 
 ################
 # --- Logo --- #
