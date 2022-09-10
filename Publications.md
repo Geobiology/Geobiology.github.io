@@ -23,7 +23,7 @@ Eriksson, A., Edler, D., <b>Rojas</b>, <b>A</b>., de Domenico, M., and Rosvall, 
 
 [2019]
 
-Calatayud, J., Bernardo-Madrid, R., Neuman, M., <b>Rojas</b>, <b>A</b>A., and Rosvall, M. (2019). Exploring the solution landscape enables more reliable network community detection. Phys. Rev. E 100, 052308. doi: 10.1103/PhysRevE.100.052308.
+Calatayud, J., Bernardo-Madrid, R., Neuman, M., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2019). Exploring the solution landscape enables more reliable network community detection. Phys. Rev. E 100, 052308. doi: 10.1103/PhysRevE.100.052308.
 
 <b>Rojas</b>, <b>A</b>., and Sandy, M. R. (2019). Early Cretaceous (Valanginian) brachiopods from the Rosablanca Formation, Colombia, South America: Biostratigraphic significance and paleogeographic implications. Cretaceous Research 96, 184–195. doi: 10.1016/j.cretres.2018.12.011.
 
