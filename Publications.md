@@ -2,6 +2,14 @@
 
 [2022]
 
+Rojas, A., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. A natural history of networks: Higher-order network modelling for research in paleobiology. In preparation for Frontiers in Earth Science.
+
+Kirkley, Alec, Rojas, A., Rosvall, M., and Young, J-G. Compressing network populations with modal networks reveals structural diversity. In preparation for Physical Review E.
+
+Viglietti, P., Rojas, A., Rosvall, M., Davis, B., and Angielczyk, K, 2022. Network‐based biostratigraphy for the late Permian to mid‐ Triassic Beaufort Group (Karoo Supergroup) in South Africa enhances biozone applicability and stratigraphic correlation. Palaeontology, 65. https://doi.org/10.1111/pala.12622
+
+Rojas, A., Gracia, A., Hernández-Ávila, I., Patarroyo, P., Kowalewski, M., 2022. Occurrence of the brachiopod Tichosina in deep-sea coral bottoms of the Caribbean Sea and its paleoenvironmental implications. Bulletin of the Florida Museum of Natural History 59, 1–15. https://doi.org/10.1101/2020.06.24.168658
+
 Eriksson, A., Carletti, T., Lambiotte, R., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2022). “Flow-Based Community Detection in Hypergraphs,” in Higher-Order Systems Understanding Complex Systems., eds. F. Battiston and G. Petri (Cham: Springer International Publishing), 141–161. doi: 10.1007/978-3-030-91374-8_4.
 
 Pilotto, F., <b>Rojas</b>, <b>A</b>., and Buckland, P. I. (2022). Late Holocene anthropogenic landscape change in northwestern Europe impacted insect biodiversity as much as climate change did after the last Ice Age. Proc. R. Soc. B. 289, 20212734. doi: 10.1098/rspb.2021.2734.
