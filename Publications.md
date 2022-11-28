@@ -2,7 +2,7 @@
 
 [2022]
 
-<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. A natural history of networks: Higher-order network modelling for research in paleobiology. In preparation for Frontiers in Earth Science.
+<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. A natural history of networks: Higher-order network modelling for research in paleobiology. In preparation.
 
 Kirkley, Alec, <b>Rojas</b>, <b>A</b>., Rosvall, M., and Young, J-G. Compressing network populations with modal networks reveals structural diversity. In preparation for Physical Review E.
 
