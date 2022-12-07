@@ -21,7 +21,7 @@ Pilotto, F., <b>Rojas</b>, <b>A</b>., and Buckland, P. I. (2022). Late Holocene 
 
 <b>Rojas</b>, <b>A</b>., Calatayud, J., Kowalewski, M., Neuman, M., and Rosvall, M. (2021). A multiscale view of the Phanerozoic fossil record reveals the three major biotic transitions. Commun Biol 4, 309. [PDF](https://doi.org/10.1038/s42003-021-01805-y)
 
-Calatayud, J., Neuman, M., <b>Rojas</b>, <b>A</b>., Eriksson, A., and Rosvall, M. (2021). Regularities in species’ niches reveal the world’s climate regions. eLife 10, e58397. [PDF](https://doi.org/10.7554/eLife.5839)
+Calatayud, J., Neuman, M., <b>Rojas</b>, <b>A</b>., Eriksson, A., and Rosvall, M. (2021). Regularities in species’ niches reveal the world’s climate regions. eLife 10, e58397. [PDF](https://elifesciences.org/articles/58397)
 
 Eriksson, A., Edler, D., <b>Rojas</b>, <b>A</b>., de Domenico, M., and Rosvall, M. (2021). How choosing random-walk model and network representation matters for flow-based community detection in hypergraphs. Commun Phys 4, 133. [PDF](https://doi.org/10.1038/s42005-021-00634-z)
 
