@@ -10,7 +10,7 @@ Scarponi, D., <b>Rojas</b>, <b>A</b>., Nawrot, R., Cheli1, A. and Kowalewski, M.
 
 Kirkley, Alec, <b>Rojas</b>, <b>A</b>., Rosvall, M., and Young, J-G. Compressing network populations with modal networks reveals structural diversity. Under Review. [PDF](https://doi.org/10.48550/arXiv.2209.13827)
 
-Viglietti, P., <b>Rojas</b>, <b>A</b>., Rosvall, M., Davis, B., and Angielczyk, K, 2022. Network‐based biostratigraphy for the late Permian to mid‐ Triassic Beaufort Group (Karoo Supergroup) in South Africa enhances biozone applicability and stratigraphic correlation. Palaeontology, 65. [PDF](https://doi.org/10.1111/pala.12622)
+Viglietti, P., <b>Rojas</b>, <b>A</b>., Rosvall, M., Davis, B., and Angielczyk, K, 2022. Network‐based biostratigraphy for the late Permian to mid‐ Triassic Beaufort Group (Karoo Supergroup) in South Africa enhances biozone applicability and stratigraphic correlation. Palaeontology, 65. [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1111/pala.12622)
 
 <b>Rojas</b>, <b>A</b>., Gracia, A., Hernández-Ávila, I., Patarroyo, P., Kowalewski, M., 2022. Occurrence of the brachiopod <i>Tichosina</i> in deep-sea coral bottoms of the Caribbean Sea and its paleoenvironmental implications. Bulletin of the Florida Museum of Natural History 59, 1–15.[PDF](https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/35/2022/02/Vol59_No1_Archival-2.pdf)
 
