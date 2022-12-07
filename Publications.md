@@ -10,9 +10,9 @@ Scarponi, D., <b>Rojas</b>, <b>A</b>., Nawrot, R., Cheli1, A. and Kowalewski, M.
 
 Kirkley, Alec, <b>Rojas</b>, <b>A</b>., Rosvall, M., and Young, J-G. Compressing network populations with modal networks reveals structural diversity. Under Review.
 
-Viglietti, P., <b>Rojas</b>, <b>A</b>., Rosvall, M., Davis, B., and Angielczyk, K, 2022. Network‐based biostratigraphy for the late Permian to mid‐ Triassic Beaufort Group (Karoo Supergroup) in South Africa enhances biozone applicability and stratigraphic correlation. Palaeontology, 65. https://doi.org/10.1111/pala.12622
+Viglietti, P., <b>Rojas</b>, <b>A</b>., Rosvall, M., Davis, B., and Angielczyk, K, 2022. Network‐based biostratigraphy for the late Permian to mid‐ Triassic Beaufort Group (Karoo Supergroup) in South Africa enhances biozone applicability and stratigraphic correlation. Palaeontology, 65. [HERE](https://doi.org/10.1111/pala.12622)
 
-<b>Rojas</b>, <b>A</b>., Gracia, A., Hernández-Ávila, I., Patarroyo, P., Kowalewski, M., 2022. Occurrence of the brachiopod <i>Tichosina</i> in deep-sea coral bottoms of the Caribbean Sea and its paleoenvironmental implications. Bulletin of the Florida Museum of Natural History 59, 1–15. https://doi.org/10.1101/2020.06.24.168658
+<b>Rojas</b>, <b>A</b>., Gracia, A., Hernández-Ávila, I., Patarroyo, P., Kowalewski, M., 2022. Occurrence of the brachiopod <i>Tichosina</i> in deep-sea coral bottoms of the Caribbean Sea and its paleoenvironmental implications. Bulletin of the Florida Museum of Natural History 59, 1–15.[HERE](https://doi.org/10.1101/2020.06.24.168658)
 
 Pilotto, F., <b>Rojas</b>, <b>A</b>., and Buckland, P. I. (2022). Late Holocene anthropogenic landscape change in northwestern Europe impacted insect biodiversity as much as climate change did after the last Ice Age. Proc. R. Soc. B. 289, 20212734. doi: 10.1098/rspb.2021.2734. https://doi.org/10.1098/rspb.2021.2734
 
