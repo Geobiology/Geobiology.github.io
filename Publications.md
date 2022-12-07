@@ -2,15 +2,17 @@
 
 [2022]
 
-<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. A natural history of networks: Higher-order network modelling for research in paleobiology. In preparation.
+<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. A natural history of networks: Higher-order network modelling for research in paleobiology. Under review.
 
-Kirkley, Alec, <b>Rojas</b>, <b>A</b>., Rosvall, M., and Young, J-G. Compressing network populations with modal networks reveals structural diversity. In preparation for Physical Review E.
+Eriksson, A., Carletti, T., Lambiotte, R., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2022). “Flow-Based Community Detection in Hypergraphs,” in Higher-Order Systems Understanding Complex Systems., eds. F. Battiston and G. Petri (Cham: Springer International Publishing), 141–161. doi: 10.1007/978-3-030-91374-8_4.
+
+Scarponi, D., <b>Rojas</b>, <b>A</b>., Nawrot, R., Cheli1, A. and Kowalewski, M. Assessing biotic response to anthropogenic forcing using mollusc assemblages from the Po-Adriatic System (Italy). The Geological Society of London Special Publication, Conservation Palaeobiology of Marine Ecosystems. Accepted.
+
+Kirkley, Alec, <b>Rojas</b>, <b>A</b>., Rosvall, M., and Young, J-G. Compressing network populations with modal networks reveals structural diversity. Under Review.
 
 Viglietti, P., <b>Rojas</b>, <b>A</b>., Rosvall, M., Davis, B., and Angielczyk, K, 2022. Network‐based biostratigraphy for the late Permian to mid‐ Triassic Beaufort Group (Karoo Supergroup) in South Africa enhances biozone applicability and stratigraphic correlation. Palaeontology, 65. https://doi.org/10.1111/pala.12622
 
-<b>Rojas</b>, <b>A</b>., Gracia, A., Hernández-Ávila, I., Patarroyo, P., Kowalewski, M., 2022. Occurrence of the brachiopod Tichosina in deep-sea coral bottoms of the Caribbean Sea and its paleoenvironmental implications. Bulletin of the Florida Museum of Natural History 59, 1–15. https://doi.org/10.1101/2020.06.24.168658
-
-Eriksson, A., Carletti, T., Lambiotte, R., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2022). “Flow-Based Community Detection in Hypergraphs,” in Higher-Order Systems Understanding Complex Systems., eds. F. Battiston and G. Petri (Cham: Springer International Publishing), 141–161. doi: 10.1007/978-3-030-91374-8_4.
+<b>Rojas</b>, <b>A</b>., Gracia, A., Hernández-Ávila, I., Patarroyo, P., Kowalewski, M., 2022. Occurrence of the brachiopod <i>Tichosina</i> in deep-sea coral bottoms of the Caribbean Sea and its paleoenvironmental implications. Bulletin of the Florida Museum of Natural History 59, 1–15. https://doi.org/10.1101/2020.06.24.168658
 
 Pilotto, F., <b>Rojas</b>, <b>A</b>., and Buckland, P. I. (2022). Late Holocene anthropogenic landscape change in northwestern Europe impacted insect biodiversity as much as climate change did after the last Ice Age. Proc. R. Soc. B. 289, 20212734. doi: 10.1098/rspb.2021.2734.
 
@@ -18,9 +20,9 @@ Pilotto, F., <b>Rojas</b>, <b>A</b>., and Buckland, P. I. (2022). Late Holocene 
 
 [2021]
 
-Calatayud, J., Neuman, M., <b>Rojas</b>, <b>A</b>., Eriksson, A., and Rosvall, M. (2021). Regularities in species’ niches reveal the world’s climate regions. eLife 10, e58397. doi: 10.7554/eLife.58397.
-
 <b>Rojas</b>, <b>A</b>., Calatayud, J., Kowalewski, M., Neuman, M., and Rosvall, M. (2021). A multiscale view of the Phanerozoic fossil record reveals the three major biotic transitions. Commun Biol 4, 309. doi: 10.1038/s42003-021-01805-y. 
+
+Calatayud, J., Neuman, M., <b>Rojas</b>, <b>A</b>., Eriksson, A., and Rosvall, M. (2021). Regularities in species’ niches reveal the world’s climate regions. eLife 10, e58397. doi: 10.7554/eLife.58397.
 
 Eriksson, A., Edler, D., <b>Rojas</b>, <b>A</b>., de Domenico, M., and Rosvall, M. (2021). How choosing random-walk model and network representation matters for flow-based community detection in hypergraphs. Commun Phys 4, 133. doi: 10.1038/s42005-021-00634-z.
 
