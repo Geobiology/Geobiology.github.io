@@ -4,7 +4,7 @@
 
 <b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. A natural history of networks: Higher-order network modelling for research in paleobiology. Under review.
 
-Eriksson, A., Carletti, T., Lambiotte, R., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2022). “Flow-Based Community Detection in Hypergraphs,” in Higher-Order Systems Understanding Complex Systems., eds. F. Battiston and G. Petri (Cham: Springer International Publishing), 141–161. [PDF](10.1007/978-3-030-91374-8_4.)
+Eriksson, A., Carletti, T., Lambiotte, R., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2022). “Flow-Based Community Detection in Hypergraphs,” in Higher-Order Systems Understanding Complex Systems., eds. F. Battiston and G. Petri (Cham: Springer International Publishing), 141–161. [PDF](https://link.springer.com/chapter/10.1007/978-3-030-91374-8_4)
 
 Scarponi, D., <b>Rojas</b>, <b>A</b>., Nawrot, R., Cheli1, A. and Kowalewski, M. Assessing biotic response to anthropogenic forcing using mollusc assemblages from the Po-Adriatic System (Italy). The Geological Society of London Special Publication, Conservation Palaeobiology of Marine Ecosystems. Accepted.
 
