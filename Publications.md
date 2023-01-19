@@ -1,7 +1,7 @@
 ![Images Papers - Copy](https://user-images.githubusercontent.com/57350440/189502826-a0b1d2d1-9ec6-43f2-ac2b-b0769ceb95e0.jpg)
 [2023]
 
-Scarponi, D., <b>Rojas</b>, <b>A</b>., Nawrot, R., Cheli1, A. and Kowalewski, M. Assessing biotic response to anthropogenic forcing using mollusc assemblages from the Po-Adriatic System (Italy). The Geological Society of London Special Publication, Conservation Palaeobiology of Marine Ecosystems, 529(1). [PDF] (https://doi.org/10.1144/SP529-2022-249)
+Scarponi, D., <b>Rojas</b>, <b>A</b>., Nawrot, R., Cheli1, A. and Kowalewski, M. Assessing biotic response to anthropogenic forcing using mollusc assemblages from the Po-Adriatic System (Italy). The Geological Society of London Special Publication, Conservation Palaeobiology of Marine Ecosystems, 529(1). [PDF](https://doi.org/10.1144/SP529-2022-249)
 
 [2022]
 
