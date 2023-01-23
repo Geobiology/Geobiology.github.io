@@ -1,4 +1,4 @@
-![Images Bioregionalization - Copy](Geobiology.github.io/assets/img/Bioregionalization-1.png)
+![Images Bioregionalization - Copy](Geobiology.github.io/assets/img/Bioregionalization-1.png](https://geobiology.github.io/assets/img/Bioregionalization-1.png)
 
 
 Global mid-Cretaceous biogeography: A network-based approach
