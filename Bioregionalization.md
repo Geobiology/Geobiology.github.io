@@ -1,4 +1,4 @@
-# Network-based biogeography
+Network-based biogeography
 
 ![Bioregionalization](assets/img/Bioregionalization-A.png)
 
