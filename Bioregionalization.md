@@ -1,4 +1,4 @@
-![Bioregionalization](assets/img/bioregionalization-1.png)
+![Bioregionalization](assets/img/Bioregionalization-1.png)
 
 Global mid-Cretaceous biogeography: A network-based approach
 
