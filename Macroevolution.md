@@ -6,7 +6,7 @@ ___
 The hypothesis of the Great Evolutionary Faunas is a foundational concept of macroevolutionary research postulating that three global mega-assemblages have dominated Phanerozoic oceans following abrupt biotic transitions. Empirical estimates of this large-scale pattern depend on several methodological decisions and are based on approaches unable to capture multiscale dynamics of the underlying Earth-Life System. Combining a multilayer network representation of fossil data with a multilevel clustering that eliminates the subjectivity inherent to distance-based approaches, we demonstrate that Phanerozoic oceans sequentially harbored four global benthic mega-assemblages. 
 
 Shifts in dominance patterns among these global marine mega-assemblages were abrupt (end-Cambrian 494 Ma; end-Permian 252 Ma) or protracted (mid-Cretaceous 129 Ma), and represent the three major biotic transitions in Earth's history. Our findings suggest that gradual ecological changes associated with the Mesozoic Marine Revolution triggered a protracted biotic transition comparable in magnitude to the end-Permian transition initiated by the most severe biotic crisis of the past 500 million years. Overall, our study supports the notion that both long-term ecological changes and major geological events have played crucial roles in shaping the mega-assemblages that dominated Phanerozoic oceans.
-
+![Macroevolution](assets/img/Macroevolution-transitions.png)
 ___
 ### References
 <b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. A natural history of networks: Higher-order network modelling for research in paleobiology. Under review.
