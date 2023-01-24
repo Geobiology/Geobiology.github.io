@@ -9,6 +9,7 @@ Shifts in dominance patterns among these global marine mega-assemblages were abr
 
 ### The Four evolutionary faunas
 ![Macroevolution](assets/img/Macroevolution-transitions.png)
+
 ___
 ### References
 <b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. A natural history of networks: Higher-order network modelling for research in paleobiology. Under review.
