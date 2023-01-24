@@ -7,7 +7,7 @@ The hypothesis of the Great Evolutionary Faunas is a foundational concept of mac
 
 Shifts in dominance patterns among these global marine mega-assemblages were abrupt (end-Cambrian 494 Ma; end-Permian 252 Ma) or protracted (mid-Cretaceous 129 Ma), and represent the three major biotic transitions in Earth's history. Our findings suggest that gradual ecological changes associated with the Mesozoic Marine Revolution triggered a protracted biotic transition comparable in magnitude to the end-Permian transition initiated by the most severe biotic crisis of the past 500 million years. Overall, our study supports the notion that both long-term ecological changes and major geological events have played crucial roles in shaping the mega-assemblages that dominated Phanerozoic oceans.
 
-### The Four evolutionary faunas
+### The Four Evolutionary Faunas
 ![Macroevolution](assets/img/Macroevolution-transitions.png)
 
 ___
