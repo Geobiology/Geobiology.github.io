@@ -1,4 +1,4 @@
-![Bioregionalization](assets/img/Bioregionalization-head3.png)
+![Biointeractions](assets/img/Biointeractions-head1.png)
 2
 ​
 3
