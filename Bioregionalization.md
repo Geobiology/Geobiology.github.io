@@ -24,6 +24,7 @@ ___
 <b>Rojas</b>, <b>A</b>., Gracia, A., Hernández-Ávila, I., Patarroyo, P., Kowalewski, M., 2022. Occurrence of the brachiopod <i>Tichosina</i> in deep-sea coral bottoms of the Caribbean Sea and its paleoenvironmental implications. Bulletin of the Florida Museum of Natural History 59, 1–15.[PDF](https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/35/2022/02/Vol59_No1_Archival-2.pdf)
 
 <b>Rojas</b>, <b>A</b>., and Sandy, M. R. (2019). Early Cretaceous (Valanginian) brachiopods from the Rosablanca Formation, Colombia, South America: Biostratigraphic significance and paleogeographic implications. Cretaceous Research 96, 184–195. [PDF](https://doi.org/10.1016/j.cretres.2018.12.011)
+
 Sandy, M. R., and <b>Rojas</b>, <b>A</b>. (2018). Paleobiogeographic affinities, biostratigraphic potential, and taxonomy of Cretaceous Terebratulide brachiopods from Colombia. in Geological Society of America Abstracts with Programs, 6. doi: 10.1130/abs/2018AM-325121 [PDF](https://gsa.confex.com/gsa/2018AM/webprogram/Paper325121.html)
 
 <b>Rojas</b>, <b>A</b>., Patarroyo, P., Mao, L., Bengtson, P., and Kowalewski, M. (2017). Global biogeography of Albian ammonoids: A network-based approach. Geology 45, 659–662. [PDF](https://doi.org/10.1130/G38944.1)
