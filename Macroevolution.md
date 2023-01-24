@@ -1,4 +1,4 @@
-![Macroevolution-head1](assets/img/Bioregionalization-head3.png)
+![Macroevolution](assets/img/Macroevolution-head1.png)
 
 ___
 ### Network-based biogeography
