@@ -12,5 +12,5 @@ Modern ad fossil brachiopod faunas from Colombia have not been studied extensive
 
 Despite its importance as the larger component of the modern and Cenozoic brachiopod faunas in the Caribbean region, the ecology and habitat preferences of the terebratulid <i>Tichosina</i> remain poorly understood. We further compiled feld observations from multiple sites in the Caribbean of Colombia (i.e., San Bernado Bank, Bahia Honda-Guajira, Puerto Escondido, Joint Regime Area Jamaica-Colombia) and data from the R/V Pillsbury program, indicating that <i>Tichosina</i> may have close ecological ties with deep-water corals. In addition, we reviewed literature sources on Cenozoic sediments in the Dominican Republic and found tentative evidence that such ecological ties could have existed since at least the Pliocene. These observations are reminiscent of the <i>Gryphus</i>-anthozoan association observed along the modern Mediterranean continental margin. Understanding to what extent the brachiopod <i>Tichosina</i> is linked to deep-water habitats has implications for the recognition of deep-water macrobenthic communities in the Cenozoic rock record of the Caribbean.
 
-![Bioregionalization](assets/img/Brachiopods-network.png)
+![Bioregionalization](assets/img/Brachiopods-network2.png)
 
