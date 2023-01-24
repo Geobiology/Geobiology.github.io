@@ -3,7 +3,7 @@
 ___
 ### SPPAT: Spatial point pattern analysis of traces
 
-![Biointeractions](assets/img/Biointeractions.png)
+![Biointeractions](assets/img/shells.png)
 
 Trace fossils left by predators on skeletons of their prey, including drillholes, repair scars, fractures, and tooth marks, are the most powerful direct indicators on predator-prey interactions available in the fossil record. For instance, predatory drillholes can provide valuable behavioral information regarding selectivity of predatory attacks in terms of prey species, prey size, or drilling location on the prey skeleton (site-selectivity). Although predatory drillholes are spatially explicit traces that represent a uniform record of a single behavior and are frequent enough to make statistical analyses, current approaches used to evaluate site-selectivity ignore some spatial information.
 
