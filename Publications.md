@@ -2,13 +2,14 @@
 
 [2023]
 
+<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. A natural history of networks: Modeling higher-order interactions in
+geohistorical data. <i>Under review in Paleobiology</i> [PDF](https://www.biorxiv.org/content/10.1101/2022.09.26.509538v2.full.pdf)
+
 Karapunar, B., Werner, W., Simonsen, S., Bade, M.,  Lücke, M., Rebbe, T., Schubert, S., <b>Rojas</b>, <b>A</b>. (2023). Drilling predation on Early Jurassic bivalves and behavioral patterns of the presumed gastropod predator — evidence from Pliensbachian soft bottom deposits of northern Germany. Paleobiology. <i>In press</i>
 
-Scarponi, D., <b>Rojas</b>, <b>A</b>., Nawrot, R., Cheli1, A. and Kowalewski, M. Assessing biotic response to anthropogenic forcing using mollusc assemblages from the Po-Adriatic System (Italy). The Geological Society of London Special Publication, Conservation Palaeobiology of Marine Ecosystems, 529(1). [PDF](https://doi.org/10.1144/SP529-2022-249)
+Scarponi, D., <b>Rojas</b>, <b>A</b>., Nawrot, R., Cheli, A. and Kowalewski, M. Assessing biotic response to anthropogenic forcing using mollusc assemblages from the Po-Adriatic System (Italy). The Geological Society of London Special Publication, Conservation Palaeobiology of Marine Ecosystems, 529(1). [PDF](https://doi.org/10.1144/SP529-2022-249)
 
 [2022]
-
-<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. A natural history of networks: Higher-order network modelling for research in paleobiology. <i>Under review</i> [PDF](https://www.biorxiv.org/content/10.1101/2022.09.26.509538v1.full.pdf)
 
 Eriksson, A., Carletti, T., Lambiotte, R., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2022). “Flow-Based Community Detection in Hypergraphs,” in Higher-Order Systems Understanding Complex Systems., eds. F. Battiston and G. Petri (Cham: Springer International Publishing), 141–161. [PDF](https://link.springer.com/chapter/10.1007/978-3-030-91374-8_4)
 
