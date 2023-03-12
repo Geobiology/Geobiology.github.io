@@ -62,9 +62,7 @@ Garcia, J., Oyuela-Caycedo, A., and <b>Rojas</b>, <b>A</b>. (2015). Holocene Pal
 
 <b>Rojas</b>, <b>A</b>., Hendy, A., and Dietl, G. P. (2015). Edge-drilling behavior in the predatory gastropod <i>Notocochlis unifasciata</i> (Lamarck, 1822) (Caenogastropoda, Naticidae) from the Pacific coast of Panama: taxonomic and biogeographical implications. Vita Malacologica, 63–72. [PDF](https://repository.si.edu/bitstream/handle/10088/27807/2015%20Rojas%20VitaMalac.pdf?sequence=1&isAllowed=y)
 
-[2012] <b>Rojas</b>, <b>A</b>
-
-Schemm-Gregory, M., <b>Rojas-Briceño, A</b>., Patarroyo, P., and Jaramillo, C. (2012). First report of  <i>Hadrosia</i> Cooper, 1983 in South America and its biostratigraphical and palaeobiogeographical implications. Cretaceous Research 34, 257–267. [PDF](https://doi.org/10.1016/j.cretres.2011.11.005)
+[2012] <b>Rojas</b>, <b>A</b>, Schemm-Gregory, M., <b>Rojas-Briceño, A</b>., Patarroyo, P., and Jaramillo, C. (2012). First report of  <i>Hadrosia</i> Cooper, 1983 in South America and its biostratigraphical and palaeobiogeographical implications. Cretaceous Research 34, 257–267. [PDF](https://doi.org/10.1016/j.cretres.2011.11.005)
 
 <p style="border-width:3px; border-style:solid; border-color:#FF0000; padding: 1em;"><i>Between 2009 and 2012 I worked for the Panama Geology Project -PIRE, a unique opportunity for understanding the impacts that the emergence of the Isthmus of Panama had on ancient marine and terrestrial biotas, presented by the Panama Canal expansion. Located at the Panama Canal Authority (ACP) facilities, I developed a collection catalogue for the more of 100.000 specimens recovered during the Panama Canal excavations, and coordinated their use for research. After that, I joined the Invertebrate Paleontology Division of the Florida Museum of Natural History as PhD student.</i></p>
 
