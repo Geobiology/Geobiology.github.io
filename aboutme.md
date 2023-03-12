@@ -3,4 +3,8 @@ layout: page
 title: Alexis Rojas
 subtitle: Higher-order network modeling of geohistorical data
 ---
-I am a geologist, a paleontologist and a network scientists. My research program focuses on understanding the complex interactions between plate tectonics, climate and the evolution of life. I am particularly interested in the processes that controls the stratigraphic distribution of fossils over large scales. I use an interdisciplinary approach that combines stratigraphy and paleobiology with spatial statistics and network science tools to address specific questions on spatiotemporal aspects of the biosedimentary record.
+My research program focuses on understanding the Earth-Life System through networks describing the complex spatiotemporal interactions between biotic, abiotic, and social components. I aim to answer the question of how the multilevel structure of living, social, and climate networks afect each other.
+
+
+
+
