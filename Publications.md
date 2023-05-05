@@ -1,4 +1,4 @@
-![Images Papers 2023](assets/img/Images Papers 2023.jpg)
+![Images Papers](assets/img/Images_Papers_2023.png)
 
 [2023]
 <b>Rojas</b>, <b>A</b>., Eriksson, A., Patarroyo, P., Salazar, C. The mid-Cretaceous saga: A multilayer network analysis of fossil cephalopods supports the three-fold natural division of the Cretaceous. <i>Submitted to Cretaceous Research</i>.
