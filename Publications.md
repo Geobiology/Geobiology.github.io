@@ -1,5 +1,3 @@
-![Images Papers - Copy](https://user-images.githubusercontent.com/57350440/189502826-a0b1d2d1-9ec6-43f2-ac2b-b0769ceb95e0.jpg)
-
 ![Images Papers 2023](https://github.com/Geobiology/Geobiology.github.io/blob/ccfd13f9b14f8e8257397ef61b7b588ee3efe9d9/assets/img/Images%20Papers%202023.jpg)
 
 [2023]
