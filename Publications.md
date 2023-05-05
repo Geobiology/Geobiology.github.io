@@ -2,12 +2,14 @@
 
 [2023]
 
-<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. A natural history of networks: Modeling higher-order interactions in
-geohistorical data. <i>Under review in Paleobiology</i> [PDF](https://www.biorxiv.org/content/10.1101/2022.09.26.509538v2.full.pdf)
+<b>Rojas</b>, <b>A</b>., Eriksson, A., Patarroyo, P., Salazar, C. The mid-Cretaceous saga: A multilayer network analysis of fossil cephalopods supports the three-fold natural division of the Cretaceous. <i>Submitted to Cretaceous Research</i>.
 
 Kirkley, Alec, <b>Rojas</b>, <b>A</b>., Rosvall, M., and Young, J-G. (2023). Compressing network populations with modal networks reveals structural diversity. <i>Accepted in Communications Physics</i> [PDF](https://arxiv.org/pdf/2209.13827.pdf)
 
-Karapunar, B., Werner, W., Simonsen, S., Bade, M.,  Lücke, M., Rebbe, T., Schubert, S., <b>Rojas</b>, <b>A</b>. (2023). Drilling predation on Early Jurassic bivalves and behavioral patterns of the presumed gastropod predator — evidence from Pliensbachian soft bottom deposits of northern Germany. Paleobiology, 1–23. [PDF]  (https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2E8ABC597928AAC9EA608E0F72CB0468/S0094837323000064a.pdf/drilling-predation-on-early-jurassic-bivalves-and-behavioral-patterns-of-the-presumed-gastropod-predatorevidence-from-pliensbachian-soft-bottom-deposits-of-northern-germany.pdf)
+<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. A natural history of networks: Modeling higher-order interactions in
+geohistorical data. <i>Under review in Paleobiology</i> [PDF](https://www.biorxiv.org/content/10.1101/2022.09.26.509538v2.full.pdf)
+
+Karapunar, B., Werner, W., Simonsen, S., Bade, M.,  Lücke, M., Rebbe, T., Schubert, S., <b>Rojas</b>, <b>A</b>. (2023). Drilling predation on Early Jurassic bivalves and behavioral patterns of the presumed gastropod predator — evidence from Pliensbachian soft bottom deposits of northern Germany. Paleobiology, 1–23. [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2E8ABC597928AAC9EA608E0F72CB0468/S0094837323000064a.pdf/drilling-predation-on-early-jurassic-bivalves-and-behavioral-patterns-of-the-presumed-gastropod-predatorevidence-from-pliensbachian-soft-bottom-deposits-of-northern-germany.pdf)
 
 Scarponi, D., <b>Rojas</b>, <b>A</b>., Nawrot, R., Cheli, A. and Kowalewski, M. (2023). Assessing biotic response to anthropogenic forcing using mollusc assemblages from the Po-Adriatic System (Italy). The Geological Society of London Special Publication, Conservation Palaeobiology of Marine Ecosystems, 529(1). [PDF](https://www.lyellcollection.org/doi/epdf/10.1144/SP529-2022-249)
 
