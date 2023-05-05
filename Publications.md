@@ -25,7 +25,7 @@ Viglietti, P., <b>Rojas</b>, <b>A</b>., Rosvall, M., Davis, B., and Angielczyk, 
 
 <b>Rojas</b>, <b>A</b>. Sepkoski’s Evolutionary Faunas–Zooming out to Appreciate the Greatest Picture of Marine Life. 2022. The Palaeontology Newsletter, no. 110, 66–69. [PDF](https://www.palass.org/sites/default/files/media/publications/newsletters/number_110/PAN110.pdf)
 
-Edler, D., Eriksson, A., <b>Rojas</b>, <b>A</b>., and Rosvall, M.. “Infomap Bioregions 2: Exploring the Interplay between Biogeography and Evolution, 2022. [PDF](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1712837&dswid=5563)
+Edler, D., Eriksson, A., <b>Rojas</b>, <b>A</b>., and Rosvall, M.. Infomap Bioregions 2: Exploring the Interplay between Biogeography and Evolution, 2022. [PDF](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1712837&dswid=5563)
 
 [2021]
 
