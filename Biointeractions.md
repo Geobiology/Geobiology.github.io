@@ -24,7 +24,6 @@ ___
 Karapunar, B., Werner, W., Simonsen, S., Bade, M.,  Lücke, M., Rebbe, T., Schubert, S., <b>Rojas</b>, <b>A</b>. (2023). Drilling predation on Early Jurassic bivalves and behavioral patterns of the presumed gastropod predator — evidence from Pliensbachian soft bottom deposits of northern Germany. Paleobiology. <i>In press</i>
 
 <b>Rojas</b>, <b>A</b>., Dietl, G. P., Kowalewski, M., Portell, R. W., Hendy, A., and Blackburn, J. K. (2020). Spatial point pattern analysis of traces (SPPAT): An approach for visualizing and quantifying site-selectivity patterns of drilling predators. Paleobiology 46, 259–271. [PDF](https://doi.org/10.1017/pab.2020.15)
-[2019]
 
 <b>Rojas</b>, <b>A</b>., Portell, R. W., and Kowalewski, M. (2017). The post-Palaeozoic fossil record of drilling predation on lingulide brachiopods. Lethaia 50, 296–305.[PDF](https://doi.org/10.1111/let.12198)
 
