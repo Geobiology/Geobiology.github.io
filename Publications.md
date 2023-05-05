@@ -1,7 +1,6 @@
-![Images Papers - Copy](https://github.com/Geobiology/Geobiology.github.io/blob/master/assets/img/Images%20Papers%202023.jpg)
+![Images Papers - Copy](https://user-images.githubusercontent.com/57350440/189502826-a0b1d2d1-9ec6-43f2-ac2b-b0769ceb95e0.jpg)
 
 [2023]
-(https://user-images.githubusercontent.com/57350440/189502826-a0b1d2d1-9ec6-43f2-ac2b-b0769ceb95e0.jpg)
 <b>Rojas</b>, <b>A</b>., Eriksson, A., Patarroyo, P., Salazar, C. The mid-Cretaceous saga: A multilayer network analysis of fossil cephalopods supports the three-fold natural division of the Cretaceous. <i>Submitted to Cretaceous Research</i>.
 
 Kirkley, Alec, <b>Rojas</b>, <b>A</b>., Rosvall, M., and Young, J-G. (2023). Compressing network populations with modal networks reveals structural diversity. <i>Accepted in Communications Physics</i> [PDF](https://arxiv.org/pdf/2209.13827.pdf)
