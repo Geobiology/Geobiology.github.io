@@ -17,7 +17,7 @@ Scarponi, D., <b>Rojas</b>, <b>A</b>., Nawrot, R., Cheli, A. and Kowalewski, M. 
 
 Eriksson, A., Carletti, T., Lambiotte, R., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2022). “Flow-Based Community Detection in Hypergraphs,” in Higher-Order Systems Understanding Complex Systems., eds. F. Battiston and G. Petri (Cham: Springer International Publishing), 141–161. [PDF](https://link.springer.com/chapter/10.1007/978-3-030-91374-8_4)
 
-Pilotto, F., <b>Rojas</b>, <b>A</b>., and Buckland, P. I. (2022). Late Holocene anthropogenic landscape change in northwestern Europe impacted insect biodiversity as much as climate change did after the last Ice Age. Proc. R. Soc. B. 289, 20212734. doi: 10.1098/rspb.2021.2734. [PDF](https://doi.org/10.1098/rspb.2021.2734)
+Pilotto, F., <b>Rojas</b>, <b>A</b>., and Buckland, P. I. (2022). Late Holocene anthropogenic landscape change in northwestern Europe impacted insect biodiversity as much as climate change did after the last Ice Age. Proc. R. Soc. B. 289, 20212734. doi: 10.1098/rspb.2021.2734. [PDF](https://royalsocietypublishing.org/doi/epdf/10.1098/rspb.2021.2734)
 
 <b>Rojas</b>, <b>A</b>., Gracia, A., Hernández-Ávila, I., Patarroyo, P., Kowalewski, M., 2022. Occurrence of the brachiopod <i>Tichosina</i> in deep-sea coral bottoms of the Caribbean Sea and its paleoenvironmental implications. Bulletin of the Florida Museum of Natural History 59, 1–15.[PDF](https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/35/2022/02/Vol59_No1_Archival-2.pdf)
 
@@ -25,7 +25,7 @@ Viglietti, P., <b>Rojas</b>, <b>A</b>., Rosvall, M., Davis, B., and Angielczyk, 
 
 <b>Rojas</b>, <b>A</b>. Sepkoski’s Evolutionary Faunas–Zooming out to Appreciate the Greatest Picture of Marine Life. 2022. The Palaeontology Newsletter, no. 110, 66–69. [PDF](https://www.palass.org/sites/default/files/media/publications/newsletters/number_110/PAN110.pdf)
 
-Edler, D., Eriksson, A., <b>Rojas</b>, <b>A</b>., and Rosvall, M.. “Infomap Bioregions 2: Exploring the Interplay between Biogeography and Evolution,” 2022. [PDF](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1712837&dswid=5563)
+Edler, D., Eriksson, A., <b>Rojas</b>, <b>A</b>., and Rosvall, M.. “Infomap Bioregions 2: Exploring the Interplay between Biogeography and Evolution, 2022. [PDF](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1712837&dswid=5563)
 
 [2021]
 
