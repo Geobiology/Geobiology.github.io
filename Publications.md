@@ -2,6 +2,8 @@
 
 [2023]
 
+Edler, D., Holmgren, A., <b>Rojas R</b>,, Calatayud, J., Rosvall, M., and Antonelli, A. 2023. Infomap Bioregions 2 - Exploring the interplay between biogeography and evolution [PDF](https://arxiv.org/pdf/2306.17259.pdf)
+
 <b>Rojas</b>, <b>A</b>., Eriksson, A., Patarroyo, P., Salazar, C. The mid-Cretaceous saga: A multilayer network analysis of fossil cephalopods supports the three-fold natural division of the Cretaceous. <i>Submitted to Cretaceous Research</i>.
 
 Kirkley, Alec, <b>Rojas</b>, <b>A</b>., Rosvall, M., and Young, J-G. (2023). Compressing network populations with modal networks reveals structural diversity. <i>Accepted in Communications Physics</i> [PDF](https://arxiv.org/pdf/2209.13827.pdf)
