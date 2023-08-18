@@ -86,3 +86,24 @@ Vega, F. J., Nyborg, T., Kovalchuk, G., Luque, J., <b>Rojas-Briceño, A</b>., Pa
 Vega, F. J., Nyborg, T., <b>Rojas, A</b>., Patarroyo, P., Luque, J., Porras-Muzquiz, H., et al. (2007). Upper Cretaceous Crustacea from Mexico and Colombia: similar faunas and environments during Turonian times. Revista mexicana de Ciencias Geologicas 24, 403–422. [PDF](https://www.scielo.org.mx/pdf/rmcg/v24n3/v24n3a9.pdf)
 
 Patarroyo, P., and <b>Rojas</b>, <b>A</b>. (2007). La sucesión y la fauna del Turoniano de la Formación San Rafael en pesca y su comparación con la sección tipo en Samacá (Boyacá- Colombia-s.a.). Geologia Colombiana, 89–96. [PDF](https://repositorio.unal.edu.co/handle/unal/42401)
+
+
+<b>PUBLISHED ABSTRACTS (RECENT)</b>
+
+Daniele Scarponi, Alexis Rojas, Rafal Nawrot, Alessandro Cheli, and Michal Kowalewski, “Assessing biotic response to anthropogenic forcing using mollusc assemblages from the Po-Adriatic System (Italy)”. In EGU General Assembly 2023, 6870. Vienna, Austria: The European Geosciences Union, 2023. [PDF](https://meetingorganizer.copernicus.org/EGU23/EGU23-5721.html?pdf)
+
+Rojas, Alexis, Anton Holmgren, Magnus Neuman, Daniel Edler, Christopher Blöcker, and Martin Rosvall. “A Natural History of Networks: Modelling Higher-Order Interactions in Geohistorical Data.” In EGU General Assembly 2023, 6870. Vienna, Austria: The European Geosciences Union, 2023. [PDF](https://meetingorganizer.copernicus.org/EGU23/EGU23-6870.html?pdf)
+
+Rojas, Alexis, and Silva Nurmio. “Higher-Order Network Dynamics Reveals the Semi-Nested Hierarchical Structure of Natural and Social Systems.” In Geological Society of America Abstracts with Programs, 54 (5):382010. Denver, Colorado, USA: The Geological Society of America, 2022. [LINK](https://doi.org/10.1130/abs/2022AM-382010).
+
+Viglietti, Pia, Alexis Rojas, Martin Rosvall, Brady Davis, and Kenneth Angielczyk. “A Network-Based Biostratigraphic Framework for the Beaufort Group (Karoo Supergroup), South Africa.” In Geological Society of America Abstracts with Programs, 53 (6):365791. Portland, Oregon, USA: The Geological Society of America, 2021. [LINK](https://doi.org/10.1130/abs/2021AM-365791)
+
+Rojas, Alexis, Y. Barrera-Huertas, A. Moreno-Ayala, and M. Garcia. “Saving a Piece of the  Colombian’s Geoheritage: Organizing and Characterizing the Macrofossil Collection of the  Floresta Formation (Devonian, South America) at the National Pedagogic University.” In IPC5 Abstracts with Programs, 639. Paris, France, 2018. [PDF](https://ipc5.sciencesconf.org/data/IPC5_schedule.pdf)
+
+Rojas, Alexis, Michele Azzarone, Daniel Edler, Joaquín Calatayud, Martin Rosvall, Michal Kowalewski, and Daniele Scarponi. “Mapping Network Flows through Sedimentary Deposits Based on Fossil Assemblages: A Case Study from the Quaternary of the Po Plain (Italy).” In IPC5 Abstracts with Programs. Paris, France, 2018.
+
+Sandy, M. R., and Alexis Rojas. “Paleobiogeographic Affinities, Biostratigraphic Potential, and Taxonomy of Cretaceous Terebratulide Brachiopods from Colombia.” In Geological Society of America Abstracts with Programs, 50 (6):325121. Indianapolis, Indiana, USA: The Geological Society of America, 2018. [LINK](https://doi.org/10.1130/abs/2018AM-325121)
+
+
+
+
