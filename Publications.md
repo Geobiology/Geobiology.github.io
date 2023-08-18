@@ -2,7 +2,7 @@
 
 [2023]
 
-Raulo, A., <b>Rojas</b>, <b>A</b>., Kröger, B., Laaksonen, A., Lamuela-Orta, C., Nurmio, S., Peltoniemi, M., Lahti, L, and Zliobaite, I. “What are patterns of rise and decline”.  <i>Accepted in Royal Society Open Science (RSOS-230052.R1)h</i>.
+Raulo, A., <b>Rojas</b>, <b>A</b>., Kröger, B., Laaksonen, A., Lamuela-Orta, C., Nurmio, S., Peltoniemi, M., Lahti, L, and Zliobaite, I. “What are patterns of rise and decline?”.  <i>Accepted in Royal Society Open Science (RSOS-230052.R1)</i>.
 
 Lysne-Voje, K., Saulsbury, J., Starrfelt, J., Varajao de Latorre, D., <b>Rojas</b>, <b>A</b>., Kinneberg, V., Liow, LH, Rugstad, A., Wilson, C., Saupe, E., Grabowski, M.. Measurement theory and paleobiology. <i>Accepted in Trends in Ecology and Evolution (TREE-D-23-00163R1)h</i>.
 
