@@ -2,6 +2,10 @@
 
 [2023]
 
+Raulo, A., <b>Rojas</b>, <b>A</b>., Kröger, B., Laaksonen, A., Lamuela-Orta, C., Nurmio, S., Peltoniemi, M., Lahti, L, and Zliobaite, I. “What are patterns of rise and decline?”.  <i>Accepted in Royal Society Open Science (RSOS-230052.R1)h</i>..
+
+Lysne-Voje, K., Saulsbury, J., Starrfelt, J., Varajao de Latorre, D., <b>Rojas</b>, <b>A</b>., Kinneberg, V., Liow, LH, Rugstad, A., Wilson, C., Saupe, E., Grabowski, M.. Measurement theory and paleobiology. Accepted in Trends in Ecology and Evolution (TREE-D-23-00163R1).
+
 Edler, D., Holmgren, A., <b>Rojas R</b>,, Calatayud, J., Rosvall, M., and Antonelli, A. 2023. Infomap Bioregions 2 - Exploring the interplay between biogeography and evolution [PDF](https://arxiv.org/pdf/2306.17259.pdf)
 
 <b>Rojas</b>, <b>A</b>., Eriksson, A., Patarroyo, P., Salazar, C. The mid-Cretaceous saga: A multilayer network analysis of fossil cephalopods supports the three-fold natural division of the Cretaceous. <i>Submitted to Cretaceous Research</i>.
