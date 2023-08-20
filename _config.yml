@@ -100,11 +100,11 @@ navbar-var-length: false
 # --- Colours / background image --- #
 ######################################
 
-# Personalize the colours in your website. Colour values can be any valid CSS colour (navbar-col: "#EAEAEA")
+# Personalize the colours in your website. Colour values can be any valid CSS colour (navbar-col: "#EAEAEA"; navbar-border-col: "#DDDDDD")
 
 navbar-col: "#ccefff"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: ""#ccefff"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
