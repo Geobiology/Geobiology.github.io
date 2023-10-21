@@ -1,6 +1,7 @@
 ![Images Papers](assets/img/Images_Papers_2023.png)
 
 [2023]
+<b>Rojas</b>, <b>A</b>., Raulo, A., Kröger, B., Laaksonen, A., Lamuela-Orta, C., Nurmio, S., Peltoniemi, M., Lahti, L, and Zliobaite, I. “The Great Evolutionary Assemblages—A hypothesis for intergrative understanding of natural systems including society?”.  <i>In proparation for Royal Society Open Science (RSOS-230052.R1)</i>.
 
 Raulo, A., <b>Rojas</b>, <b>A</b>., Kröger, B., Laaksonen, A., Lamuela-Orta, C., Nurmio, S., Peltoniemi, M., Lahti, L, and Zliobaite, I. “What are patterns of rise and decline?”.  <i>Accepted in Royal Society Open Science (RSOS-230052.R1)</i>.
 
