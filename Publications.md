@@ -1,7 +1,11 @@
 ![Images Papers](assets/img/Images_Papers_2023.png)
 
+[In preparation]
+<b>Rojas</b>, <b>A</b>., Nurmio, S. “Higher-Order Network Dynamics Reveals the Semi-Nested Hierarchical Structure of Natural and Social Systems.” <i>In preparation for nature comunications</i>.
+
+<b>Rojas</b>, <b>A</b>., Raulo, A., Kröger, B., Laaksonen, A., Lamuela-Orta, C., Nurmio, S., Peltoniemi, M., Lahti, L, and Zliobaite, I. “The Great Evolutionary Assemblagues—A hypothesis for intergrative understanding of complex systems in nature and society”. <i>In preparation for Royal Society Interface</i>.
+
 [2023]
-<b>Rojas</b>, <b>A</b>., Raulo, A., Kröger, B., Laaksonen, A., Lamuela-Orta, C., Nurmio, S., Peltoniemi, M., Lahti, L, and Zliobaite, I. <b>“The Great Evolutionary Assemblagues—A hypothesis for intergrative understanding of complex systems in nature and society”</b>.  <i>In proparation for Royal Society Interface</i>.
 
 Raulo, A., <b>Rojas</b>, <b>A</b>., Kröger, B., Laaksonen, A., Lamuela-Orta, C., Nurmio, S., Peltoniemi, M., Lahti, L, and Zliobaite, I. “What are patterns of rise and decline?”.  <i>Accepted in Royal Society Open Science (RSOS-230052.R1)</i>.
 
