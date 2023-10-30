@@ -2,9 +2,9 @@
 
 [In preparation]
 
-<b>Rojas</b>, <b>A</b>., Nurmio, S. “Higher-order network dynamics reveals the semi-nested hierarchical structure of natural and social systems.” <i>In preparation for nature comunications</i>.
+<b>Rojas</b>, <b>A</b>., Nurmio, S. “Higher-order network dynamics reveals the semi-nested hierarchical structure of natural and social systems.” <i>In preparation</i>.
 
-<b>Rojas</b>, <b>A</b>., Raulo, A., Nurmio, S., Lamuela-Orta, C., Kröger, B.,  Peltoniemi, M., and Zliobaite, I. “The Great Evolutionary Assemblagues—A hypothesis for intergrative understanding of complex systems in nature and society”. <i>In preparation for Royal Society Interface</i>.
+<b>Rojas</b>, <b>A</b>., Raulo, A., Nurmio, S., Lamuela-Orta, C., Kröger, B.,  Peltoniemi, M., and Zliobaite, I. “The Great Evolutionary Assemblagues—A hypothesis for intergrative understanding of complex systems in nature and society”. <i>In preparation</i>.
 
 [2023]
 
