@@ -39,6 +39,8 @@ Viglietti, P., <b>Rojas</b>, <b>A</b>., Rosvall, M., Davis, B., and Angielczyk, 
 
 Edler, D., Eriksson, A., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2022). Infomap Bioregions 2: Exploring the Interplay between Biogeography and Evolution. [PDF](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1712837&dswid=5563)
 
+Scarponi, D., <b>Rojas</b>, <b>A</b>., and Kowalewski, M., 2022. "Geohistorical Data in Conservation Biology: Historical Changes and Natural Range of Variability to Long-term Climate Changes in the Adriatic”. Book Restoring Connections and Building Resilience-North American Congress for Conservation Biology, 2022. Pages 1-1 [PDF](https://hdl.handle.net/11585/900623) 
+
 [2021]
 
 Eriksson, A., Edler, D., <b>Rojas</b>, <b>A</b>., de Domenico, M., and Rosvall, M. (2021). How choosing random-walk model and network representation matters for flow-based community detection in hypergraphs. Commun Phys 4, 133. [PDF](https://doi.org/10.1038/s42005-021-00634-z)
