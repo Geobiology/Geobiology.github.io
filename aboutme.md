@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alexis Rojas
-subtitle: Building Interdisciplinary Bridges!
+subtitle: Thinking Beyond Disciplines!
 ---
 My research program focuses on understanding the Earth system through networks describing spatiotemporal interactions between biotic, abiotic, and social components. I aim to answer the question of how the multilevel nature of life, climate, and society affect each other. 
 
