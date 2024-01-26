@@ -22,8 +22,8 @@ author: Alexis Rojas
 navbar-links:
   Home: "aboutme"
   Research:
-    - HAT Project: "https://blogs.helsinki.fi/hatresearch/about/"
-    - Bioregionalization: "Bioregionalization"
+    - Society: "https://blogs.helsinki.fi/hatresearch/about/"
+    - Regionalization: "Bioregionalization"
     - Biointeractions: "Biointeractions"
     - Macroevolution: "Macroevolution"
   Code: "Code"  
@@ -95,7 +95,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Evolution, Nature, Society, Climate, Environment, Complex Systems, Multilayer Netwworks, Transdisciplinary Research"
 
 ######################################
 # --- Colours / background image --- #
