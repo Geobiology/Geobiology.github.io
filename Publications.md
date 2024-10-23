@@ -2,9 +2,14 @@
 
 [In preparation]
 
-<b>Rojas</b>, <b>A</b>., Nurmio, S. “Higher-order network dynamics reveals the semi-nested hierarchical structure of natural and social systems.” <i>In preparation</i>.
-
 <b>Rojas</b>, <b>A</b>., Raulo, A., Nurmio, S., Lamuela-Orta, C., Kröger, B.,  Peltoniemi, M., and Zliobaite, I. “The Great Evolutionary Assemblagues—A hypothesis for intergrative understanding of complex systems in nature and society”. <i>In preparation</i>.
+
+[2024]
+
+Pilotto, H.,  Gholamrezaie, E., Weegar, R., <b>Rojas</b>, <b>A</b>., Buckland, P. Towards Data-driven Ecology"Biodiversity shifts: Data-driven insights from modern ecology, archaeology, and Quaternary sciences". SBDI. [PDF](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1831891&dswid=-4947)
+
+<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. A natural history of networks: Modeling higher-order interactions in
+geohistorical data. <i>Under review in Paleobiology</i> [PDF](https://www.biorxiv.org/content/10.1101/2022.09.26.509538v3.full.pdf)
 
 [2023]
 
