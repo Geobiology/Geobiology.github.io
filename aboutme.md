@@ -7,4 +7,4 @@ My research program focuses on understanding the multiscale interactions between
 
 Science education at all levels is an integral component of my research program. As an educator, I aim to bridge the gap between state-of-the-art research and teaching practices by promoting data-driven learning and systems thinking in formal and non-formal educational environments.
 
-Key words: _Evolution, Nature, Society, Climate, Environment, Complex Systems, Data Driven learning (DDL), Systems Thinking._
+Key words: _Nature, Society, Climate, Environment, Data Driven learning (DDL), Systems Thinking._
