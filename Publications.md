@@ -1,8 +1,11 @@
 ![Images Papers](assets/img/Images_Papers_2023.png)
 
-[In preparation]
+[Under review]
 
-<b>Rojas</b>, <b>A</b>., Raulo, A., Nurmio, S., Lamuela-Orta, C., Kröger, B.,  Peltoniemi, M., and Zliobaite, I. “The Great Evolutionary Assemblagues—A hypothesis for intergrative understanding of complex systems in nature and society”. <i>In preparation</i>.
+<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. “A Natural History of Networks: Higher-Order Network Modeling for Paleobiology Research.” Under review in Paleobiology (PAB-2023-0003).
+
+Alessandro, C., Mancuso, A., Prada, F., <b>Rojas</b>, <b>A</b>., Scarponi, D., Falini, G., Goffredo, S. Insights on Chamelea gallina growth dynamics from the Holocene climate optimum in the Northern Adriatic Sea (Italy). Under review in Science of the Total Environment (STOTEN-D-24-37850).
+
 
 [2024]
 
