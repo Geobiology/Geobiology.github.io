@@ -1,20 +1,14 @@
 ![Images Papers](assets/img/Images_Papers_2023.png)
 
-[Under review]
+[UNDER REVIEW ARTICLES]
 
-<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. “A Natural History of Networks: Higher-Order Network Modeling for Paleobiology Research.” Under review in Paleobiology (PAB-2023-0003).
+<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. “A Natural History of Networks: Higher-Order Network Modeling for Paleobiology Research.” Under review in Paleobiology (PAB-2024-0003).
 
 Alessandro, C., Mancuso, A., Prada, F., <b>Rojas</b>, <b>A</b>., Scarponi, D., Falini, G., Goffredo, S. Insights on Chamelea gallina growth dynamics from the Holocene climate optimum in the Northern Adriatic Sea (Italy). Under review in Science of the Total Environment (STOTEN-D-24-37850).
 
-
-[2024]
+[LIST OF PUBLICATIONS]
 
 Pilotto, H.,  Gholamrezaie, E., Weegar, R., <b>Rojas</b>, <b>A</b>., Buckland, P. "Biodiversity shifts: data-driven insights from modern ecology, archaeology, and quaternary sciences". SBDI. [PDF](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1831891&dswid=-4947)
-
-<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. A natural history of networks: Modeling higher-order interactions in
-geohistorical data. <i>Under review in Paleobiology</i> [PDF](https://www.biorxiv.org/content/10.1101/2022.09.26.509538v3.full.pdf)
-
-[2023]
 
 Raulo, A., <b>Rojas</b>, <b>A</b>., Kröger, B., Laaksonen, A., Lamuela-Orta, C., Nurmio, S., Peltoniemi, M., Lahti, L, and Zliobaite, I. "What are patterns of rise and decline?". Royal Society Open Science, 10, 230052. [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.230052)
 
@@ -31,8 +25,6 @@ Karapunar, B., Werner, W., Simonsen, S., Bade, M.,  Lücke, M., Rebbe, T., Schub
 
 Scarponi, D., <b>Rojas</b>, <b>A</b>., Nawrot, R., Cheli, A. and Kowalewski, M. (2023). Assessing biotic response to anthropogenic forcing using mollusc assemblages from the Po-Adriatic System (Italy). The Geological Society of London Special Publication, Conservation Palaeobiology of Marine Ecosystems, 529(1). [PDF](https://www.lyellcollection.org/doi/epdf/10.1144/SP529-2022-249)
 
-[2022]
-
 Eriksson, A., Carletti, T., Lambiotte, R., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2022). “Flow-Based Community Detection in Hypergraphs,” in Higher-Order Systems Understanding Complex Systems., eds. F. Battiston and G. Petri (Cham: Springer International Publishing), 141–161. [PDF](https://link.springer.com/chapter/10.1007/978-3-030-91374-8_4)
 
 Pilotto, F., <b>Rojas</b>, <b>A</b>., and Buckland, P. I. (2022). Late Holocene anthropogenic landscape change in northwestern Europe impacted insect biodiversity as much as climate change did after the last Ice Age. Proc. R. Soc. B. 289, 20212734. doi: 10.1098/rspb.2021.2734. [PDF](https://royalsocietypublishing.org/doi/epdf/10.1098/rspb.2021.2734)
@@ -47,46 +39,32 @@ Edler, D., Eriksson, A., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2022). Infoma
 
 Scarponi, D., <b>Rojas</b>, <b>A</b>., and Kowalewski, M., 2022. "Geohistorical Data in Conservation Biology: Historical Changes and Natural Range of Variability to Long-term Climate Changes in the Adriatic”. Book Restoring Connections and Building Resilience-North American Congress for Conservation Biology, 2022. Pages 1-1 [PDF](https://hdl.handle.net/11585/900623) 
 
-[2021]
-
 Eriksson, A., Edler, D., <b>Rojas</b>, <b>A</b>., de Domenico, M., and Rosvall, M. (2021). How choosing random-walk model and network representation matters for flow-based community detection in hypergraphs. Commun Phys 4, 133. [PDF](https://doi.org/10.1038/s42005-021-00634-z)
 
 Calatayud, J., Neuman, M., <b>Rojas</b>, <b>A</b>., Eriksson, A., and Rosvall, M. (2021). Regularities in species’ niches reveal the world’s climate regions. eLife 10, e58397. [PDF](https://elifesciences.org/articles/58397)
 
 <b>Rojas</b>, <b>A</b>., Calatayud, J., Kowalewski, M., Neuman, M., and Rosvall, M. (2021). A multiscale view of the Phanerozoic fossil record reveals the three major biotic transitions. Commun Biol 4, 309. [PDF](https://doi.org/10.1038/s42003-021-01805-y)
 
-[2020]
-
 Eriksson, A., Edler, D., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2021). Mapping flows on hypergraphs. arXiv:2101.00656 [physics]. 
 [PDF](https://doi.org/10.48550/arXiv.2101.00656)
 
 <b>Rojas</b>, <b>A</b>., Dietl, G. P., Kowalewski, M., Portell, R. W., Hendy, A., and Blackburn, J. K. (2020). Spatial point pattern analysis of traces (SPPAT): An approach for visualizing and quantifying site-selectivity patterns of drilling predators. Paleobiology 46, 259–271. [PDF](https://doi.org/10.1017/pab.2020.15)
 
-[2019]
-
 Calatayud, J., Bernardo-Madrid, R., Neuman, M., <b>Rojas</b>, <b>A</b>., and Rosvall, M. (2019). Exploring the solution landscape enables more reliable network community detection. Phys. Rev. E 100, 052308. [PDF](https://doi.org/10.1103/PhysRevE.100.052308)
 
 <b>Rojas</b>, <b>A</b>., and Sandy, M. R. (2019). Early Cretaceous (Valanginian) brachiopods from the Rosablanca Formation, Colombia, South America: Biostratigraphic significance and paleogeographic implications. Cretaceous Research 96, 184–195. [PDF](https://doi.org/10.1016/j.cretres.2018.12.011)
 
-[2018]
-
 Sandy, M. R., and <b>Rojas</b>, <b>A</b>. (2018). Paleobiogeographic affinities, biostratigraphic potential, and taxonomy of Cretaceous Terebratulide brachiopods from Colombia. in Geological Society of America Abstracts with Programs, 6. doi: 10.1130/abs/2018AM-325121 [PDF](https://gsa.confex.com/gsa/2018AM/webprogram/Paper325121.html)
-
-[2017]
 
 <b>Rojas</b>, <b>A</b>., Patarroyo, P., Mao, L., Bengtson, P., and Kowalewski, M. (2017). Global biogeography of Albian ammonoids: A network-based approach. Geology 45, 659–662. [PDF](https://doi.org/10.1130/G38944.1)
 
 <b>Rojas</b>, <b>A</b>., Portell, R. W., and Kowalewski, M. (2017). The post-Palaeozoic fossil record of drilling predation on lingulide brachiopods. Lethaia 50, 296–305.[PDF](https://doi.org/10.1111/let.12198)
-
-[2015]
 
 Garcia, J., Oyuela-Caycedo, A., and <b>Rojas</b>, <b>A</b>. (2015). Holocene Paleoclimate Reconstruction from δ18O Isotopes of <i>Neocyclotus</i> Opercula a Morphometric Analysis of Variation at the Archaic Site of San Jacinto 1. in (San Francisco, CA: Society for American Archaeology). doi: tDAR id: 395000. [PDF](https://core.tdar.org/document/395000/holocene-paleoclimate-reconstruction-from-18o-isotopes-of-neocyclotus-opercula-a-morphometric-analysis-of-variation-at-the-archaic-site-of-san-jacinto1-colombia)
 
 <b>Rojas</b>, <b>A</b>., Gracia, A., and Patarroyo, P. (2015). Brachiopods from off the San Bernardo Archipelago (Colombian Caribbean), with comments on specific synonymies in <i>Tichosina</i> Cooper, 1977. Zootaxa 3914, 55. [PDF](https://doi.org/10.11646/zootaxa.3914.1.3)
 
 <b>Rojas</b>, <b>A</b>., Hendy, A., and Dietl, G. P. (2015). Edge-drilling behavior in the predatory gastropod <i>Notocochlis unifasciata</i> (Lamarck, 1822) (Caenogastropoda, Naticidae) from the Pacific coast of Panama: taxonomic and biogeographical implications. Vita Malacologica, 63–72. [PDF](https://repository.si.edu/bitstream/handle/10088/27807/2015%20Rojas%20VitaMalac.pdf?sequence=1&isAllowed=y)
-
-[2012] 
 
 <b>Rojas</b>, <b>A</b>, Schemm-Gregory, M., <b>Rojas-Briceño, A</b>., Patarroyo, P., and Jaramillo, C. (2012). First report of  <i>Hadrosia</i> Cooper, 1983 in South America and its biostratigraphical and palaeobiogeographical implications. Cretaceous Research 34, 257–267. [PDF](https://doi.org/10.1016/j.cretres.2011.11.005)
 
