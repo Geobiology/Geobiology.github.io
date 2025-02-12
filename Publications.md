@@ -1,5 +1,11 @@
 ![Images Papers](assets/img/Images_Papers_2023.png)
 
+[IN PREPARATION]
+
+<b>Rojas</b>, <b>A</b>.,  Huntley, J. W., and Scarponi, G. “Spatial patterns of trematode-induced pits on bivalve skeletons: Challenges and prospects for research on parasite-host dynamics”. Submitted to Biogeosciences (see abstract In EGU General Assembly 2025. Vienna, Austria: The European Geosciences Union, 2025. https://meetingorganizer.copernicus.org/EGU25/EGU25-4571.html?pdf)
+
+<b>Rojas</b>, <b>A</b>., et al. “The mid-Cretaceous saga: A multilayer network analysis of fossil cephalopods supports the three-fold natural division of the Cretaceous”. In preaparation for Cretaceous Research.
+
 [UNDER REVIEW ARTICLES]
 
 <b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. “A Natural History of Networks: Higher-Order Network Modeling for Paleobiology Research.” Under review in Paleobiology (PAB-2024-0003).
