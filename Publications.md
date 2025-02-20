@@ -2,7 +2,7 @@
 
 [IN PREPARATION]
 
-<b>Rojas</b>, <b>A</b>.,  Huntley, J. W., and Scarponi, G. “Spatial patterns of trematode-induced pits on bivalve skeletons: Challenges and prospects for research on parasite-host dynamics”. Submitted to Biogeosciences (see abstract In EGU General Assembly 2025. Vienna, Austria: The European Geosciences Union, 2025. https://meetingorganizer.copernicus.org/EGU25/EGU25-4571.html?pdf)
+<b>Rojas</b>, <b>A</b>.,  Huntley, J. W., and Scarponi, G. “Spatial patterns of trematode-induced pits on bivalve skeletons: Challenges and prospects for research on parasite-host dynamics”. Submitted to Palaeogeography, Palaeoclimatology, Palaeoecology.
 
 <b>Rojas</b>, <b>A</b>., et al. “The mid-Cretaceous saga: A multilayer network analysis of fossil cephalopods supports the three-fold natural division of the Cretaceous”. In preaparation for Cretaceous Research.
 
