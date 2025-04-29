@@ -2,13 +2,17 @@
 
 [IN PREPARATION]
 
-<b>Rojas</b>, <b>A</b>.,  Huntley, J. W., and Scarponi, G. “Spatial patterns of trematode-induced pits on bivalve skeletons: Challenges and prospects for research on parasite-host dynamics”. Submitted to Palaeogeography, Palaeoclimatology, Palaeoecology.
+<b>Rojas</b>, <b>A</b>.,  Huntley, J. W., and Scarponi, G. “Spatial patterns of trematode-induced pits on bivalve skeletons: Challenges and prospects for research on parasite-host dynamics”. Submitted to The Holocene.
 
 <b>Rojas</b>, <b>A</b>., et al. “The mid-Cretaceous saga: A multilayer network analysis of fossil cephalopods supports the three-fold natural division of the Cretaceous”. In preaparation for Cretaceous Research.
 
-[UNDER REVIEW ARTICLES]
+<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. “A Natural History of Networks: Higher-Order Network Modeling for Paleobiology Research.”
 
-<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. “A Natural History of Networks: Higher-Order Network Modeling for Paleobiology Research.” Under review in Paleobiology (PAB-2024-0003).
+[SUBMITTED ARTICLES]
+
+B. Kroger and <b>Rojas</b>, <b>A</b>. "The Phanerozoic ageing of ecological communities". Paleobiology (PAB-2025-0038).
+
+[UNDER REVIEW ARTICLES]
 
 Alessandro, C., Mancuso, A., Prada, F., <b>Rojas</b>, <b>A</b>., Scarponi, D., Falini, G., Goffredo, S. Insights on Chamelea gallina growth dynamics from the Holocene climate optimum in the Northern Adriatic Sea (Italy). Under review in Science of the Total Environment (STOTEN-D-24-37850).
 
