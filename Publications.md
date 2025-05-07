@@ -2,7 +2,7 @@
 
 [IN PREPARATION]
 
-<b>Rojas</b>, <b>A</b>., et al. “The mid-Cretaceous saga: A multilayer network analysis of fossil cephalopods supports the three-fold natural division of the Cretaceous”. In preaparation for Cretaceous Research.
+<b>Rojas</b>, <b>A</b>., et al. “The mid-Cretaceous saga: A multilayer network analysis of fossil cephalopods supports the three-fold natural division of the Cretaceous”. In preparation for Cretaceous Research.
 
 <b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. “A Natural History of Networks: Higher-Order Network Modeling for Paleobiology Research.”
 
