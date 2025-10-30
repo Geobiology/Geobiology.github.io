@@ -1,10 +1,5 @@
 ![Images Papers](assets/img/Images_Papers_2023.png)
 
-[IN PREPARATION]
-
-<b>Rojas</b>, <b>A</b>., et al. “The mid-Cretaceous saga: A multilayer network analysis of fossil cephalopods supports the three-fold natural division of the Cretaceous”. In preparation for Cretaceous Research.
-
-<b>Rojas</b>, <b>A</b>., Eriksson, A., Neuman, M., Edler, D., Blöcker, C., and Rosvall, M. “A Natural History of Networks: Higher-Order Network Modeling for Paleobiology Research.”
 
 [SUBMITTED ARTICLES]
 
@@ -12,9 +7,9 @@ B. Kroger and <b>Rojas</b>, <b>A</b>. "The Phanerozoic ageing of ecological comm
 
 [UNDER REVIEW ARTICLES]
 
-<b>Rojas</b>, <b>A</b>.,  Huntley, J. W., and Scarponi, G. “Spatial patterns of trematode-induced pits on bivalve skeletons: Challenges and prospects for research on parasite-host dynamics”. Submitted to The Holocene.
+<b>Rojas</b>, <b>A</b>.,  Huntley, J. W., and Scarponi, G. “Spatial patterns of trematode-induced pits on bivalve skeletons: Challenges and prospects for research on parasite-host dynamics”. The Holocene, 0(0). [PDF](https://doi.org/10.1177/09596836251366205)
 
-Alessandro, C., Mancuso, A., Prada, F., <b>Rojas</b>, <b>A</b>., Scarponi, D., Falini, G., Goffredo, S. Insights on Chamelea gallina growth dynamics from the Holocene climate optimum in the Northern Adriatic Sea (Italy). Under review in Science of the Total Environment (STOTEN-D-24-37850).
+Alessandro, C., Mancuso, A., Prada, F., <b>Rojas</b>, <b>A</b>., Scarponi, D., Falini, G., Goffredo, S. <i>Chamelea gallina</i> growth declined in the Northern Adriatic Sea during the Holocene Climate Optimum. Sci Rep 15, 23353 (2025). [PDF](https://doi.org/10.1038/s41598-025-07023-4)
 
 [LIST OF PUBLICATIONS]
 
