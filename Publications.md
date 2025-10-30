@@ -1,17 +1,15 @@
 ![Images Papers](assets/img/Images_Papers_2023.png)
 
 
-[SUBMITTED ARTICLES]
+[UNDER REVIEW ARTICLES]
 
 B. Kroger and <b>Rojas</b>, <b>A</b>. "The Phanerozoic ageing of ecological communities". Paleobiology (PAB-2025-0038).
 
-[UNDER REVIEW ARTICLES]
+[LIST OF PUBLICATIONS]
 
 <b>Rojas</b>, <b>A</b>.,  Huntley, J. W., and Scarponi, G. “Spatial patterns of trematode-induced pits on bivalve skeletons: Challenges and prospects for research on parasite-host dynamics”. The Holocene, (<i>In press</i>). [PDF](https://doi.org/10.1177/09596836251366205)
 
 Alessandro, C., Mancuso, A., Prada, F., <b>Rojas</b>, <b>A</b>., Scarponi, D., Falini, G., Goffredo, S. <i>Chamelea gallina</i> growth declined in the Northern Adriatic Sea during the Holocene Climate Optimum. Sci Rep 15, 23353 (2025). [PDF](https://doi.org/10.1038/s41598-025-07023-4)
-
-[LIST OF PUBLICATIONS]
 
 Pilotto, H.,  Gholamrezaie, E., Weegar, R., <b>Rojas</b>, <b>A</b>., Buckland, P. "Biodiversity shifts: data-driven insights from modern ecology, archaeology, and quaternary sciences". SBDI. [PDF](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1831891&dswid=-4947)
 
