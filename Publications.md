@@ -7,7 +7,7 @@ B. Kroger and <b>Rojas</b>, <b>A</b>. "The Phanerozoic ageing of ecological comm
 
 [UNDER REVIEW ARTICLES]
 
-<b>Rojas</b>, <b>A</b>.,  Huntley, J. W., and Scarponi, G. “Spatial patterns of trematode-induced pits on bivalve skeletons: Challenges and prospects for research on parasite-host dynamics”. The Holocene, 0(0). [PDF](https://doi.org/10.1177/09596836251366205)
+<b>Rojas</b>, <b>A</b>.,  Huntley, J. W., and Scarponi, G. “Spatial patterns of trematode-induced pits on bivalve skeletons: Challenges and prospects for research on parasite-host dynamics”. The Holocene, (<i>In press</i>). [PDF](https://doi.org/10.1177/09596836251366205)
 
 Alessandro, C., Mancuso, A., Prada, F., <b>Rojas</b>, <b>A</b>., Scarponi, D., Falini, G., Goffredo, S. <i>Chamelea gallina</i> growth declined in the Northern Adriatic Sea during the Holocene Climate Optimum. Sci Rep 15, 23353 (2025). [PDF](https://doi.org/10.1038/s41598-025-07023-4)
 
