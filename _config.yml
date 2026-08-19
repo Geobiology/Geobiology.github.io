@@ -26,7 +26,8 @@ navbar-links:
     - Regionalization: "Bioregionalization"
     - Biointeractions: "Biointeractions"
     - Macroevolution: "Macroevolution"
-  Code: "Code"  
+  Code:
+    - "Code"  
   Publications: "Publications"
 
 ################
