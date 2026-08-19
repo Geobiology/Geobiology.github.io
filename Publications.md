@@ -3,9 +3,9 @@
 
 [UNDER REVIEW ARTICLES]
 
-B. Kroger and <b>Rojas</b>, <b>A</b>. "The aging of eco-genealogical units during the Phanerozoic". Paleobiology, p. 1–15, [PDF]([https://doi:10.1017/pab.2026.10100](https://www.cambridge.org/core/journals/paleobiology/article/aging-of-ecogenealogical-units-during-the-phanerozoic/5B8B3D6DCEC3BF2922D09AC75F7ADAE5))
-
 [LIST OF PUBLICATIONS]
+
+B. Kroger and <b>Rojas</b>, <b>A</b>. "The aging of eco-genealogical units during the Phanerozoic". Paleobiology, p. 1–15, [PDF](https://www.cambridge.org/core/journals/paleobiology/article/aging-of-ecogenealogical-units-during-the-phanerozoic/5B8B3D6DCEC3BF2922D09AC75F7ADAE5)
 
 <b>Rojas</b>, <b>A</b>.,  Huntley, J. W., and Scarponi, G. “Spatial patterns of trematode-induced pits on bivalve skeletons: Challenges and prospects for research on parasite-host dynamics”. The Holocene, (<i>In press</i>). [PDF](https://doi.org/10.1177/09596836251366205)
 
