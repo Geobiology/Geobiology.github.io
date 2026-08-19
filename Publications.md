@@ -3,7 +3,7 @@
 
 [UNDER REVIEW ARTICLES]
 
-B. Kroger and <b>Rojas</b>, <b>A</b>. "The Phanerozoic ageing of ecological communities". Paleobiology (PAB-2025-0038).
+B. Kroger and <b>Rojas</b>, <b>A</b>. "The aging of eco-genealogical units during the Phanerozoic". Paleobiology, p. 1–15, [PDF]([https://doi:10.1017/pab.2026.10100](https://www.cambridge.org/core/journals/paleobiology/article/aging-of-ecogenealogical-units-during-the-phanerozoic/5B8B3D6DCEC3BF2922D09AC75F7ADAE5))
 
 [LIST OF PUBLICATIONS]
 
