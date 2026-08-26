@@ -3,6 +3,9 @@ layout: page
 title: CV
 ---
 
-# My CV
-
-This is the CV page.
+<iframe
+  src="curriculum_vitae.pdf"
+  width="100%"
+  height="1200px"
+  style="border: none;">
+</iframe>
