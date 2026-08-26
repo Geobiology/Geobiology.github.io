@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-<object data="the.pdf" type="application/pdf" width="100%" height="1000px">
+<object data="the.pdf" type="application/curriculum_vitaepdf" width="100%" height="1000px">
   <p>
     Your browser cannot display the PDF.
     <a href="the.pdf">Download the CV</a>
