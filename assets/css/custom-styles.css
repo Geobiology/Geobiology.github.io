@@ -1,29 +1,30 @@
 /* =========================================================
-   FULL-WIDTH CV
-   Break the PDF out of Beautiful Jekyll's content container
+   FULL-WIDTH, CENTERED CV
    ========================================================= */
 
 body:has(iframe[src*="curriculum_vitae.pdf"]) .main-content {
   max-width: none !important;
   width: 100% !important;
-  padding: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
 body:has(iframe[src*="curriculum_vitae.pdf"]) .main-content .container {
   max-width: none !important;
-  width: 100vw !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
 
 body:has(iframe[src*="curriculum_vitae.pdf"]) iframe {
   display: block;
-  width: 100vw !important;
+  width: 100% !important;
   height: calc(100vh - 80px) !important;
-  min-height: 900px;
+  min-height: 1000px;
   border: none !important;
-  margin: 0 !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
   padding: 0 !important;
 }
