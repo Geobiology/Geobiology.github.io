@@ -1,12 +1,12 @@
 ---
 layout: page
-title: CV
+title:
 permalink: /CV/
 ---
 
 <iframe
   src="{{ '/curriculum_vitae.pdf' | relative_url }}"
-  width="100%"
-  height="1200px"
+  width="91%"
+  height="1100px"
   style="border: none;">
 </iframe>
