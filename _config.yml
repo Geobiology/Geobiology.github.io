@@ -21,8 +21,8 @@ author: Alexis Rojas
 
 navbar-links:
   Home: "aboutme"
-    - CV: "CV"
   Research-Program:
+    - CV summary: "CV"
     - Society: "https://blogs.helsinki.fi/hatresearch/about/"
     - Regionalization: "Bioregionalization"
     - Biointeractions: "Biointeractions"
