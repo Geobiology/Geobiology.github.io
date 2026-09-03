@@ -7,7 +7,7 @@
 
 Dowding et al. Interpreting Biotic Interactions in the Fossil Record: Evidence and Evolutionary Significance. Annual Review of Ecology, Evolution, and Systematics. Accepted
 
-<b>Rojas</b>, A. Moreno, Y. Barrera, P. Patarroyo, and M. Garcia. Learning from the Multiple Fossil Records Bridges Research and Teaching Practices and Promotes Systems Thinking in Paleontology Education. Preprint. [PDF](https://www.preprints.org/manuscript/202501.0020)
+<b>Rojas</b>, <b>A</b>., A. Moreno, Y. Barrera, P. Patarroyo, and M. Garcia. Learning from the Multiple Fossil Records Bridges Research and Teaching Practices and Promotes Systems Thinking in Paleontology Education. Preprint. [PDF](https://www.preprints.org/manuscript/202501.0020)
 
 B. Kroger and <b>Rojas</b>, <b>A</b>. "The aging of eco-genealogical units during the Phanerozoic". Paleobiology, p. 1–15, [PDF](https://www.cambridge.org/core/journals/paleobiology/article/aging-of-ecogenealogical-units-during-the-phanerozoic/5B8B3D6DCEC3BF2922D09AC75F7ADAE5)
 
