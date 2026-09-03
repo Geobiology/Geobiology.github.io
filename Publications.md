@@ -5,6 +5,10 @@
 
 [LIST OF PUBLICATIONS]
 
+Dowding et al. Interpreting Biotic Interactions in the Fossil Record: Evidence and Evolutionary Significance. Annual Review of Ecology, Evolution, and Systematics. Accepted
+
+<b>Rojas</b>, A. Moreno, Y. Barrera, P. Patarroyo, and M. Garcia. Learning from the Multiple Fossil Records Bridges Research and Teaching Practices and Promotes Systems Thinking in Paleontology Education. Preprint. [PDF](https://www.preprints.org/manuscript/202501.0020)
+
 B. Kroger and <b>Rojas</b>, <b>A</b>. "The aging of eco-genealogical units during the Phanerozoic". Paleobiology, p. 1–15, [PDF](https://www.cambridge.org/core/journals/paleobiology/article/aging-of-ecogenealogical-units-during-the-phanerozoic/5B8B3D6DCEC3BF2922D09AC75F7ADAE5)
 
 <b>Rojas</b>, <b>A</b>.,  Huntley, J. W., and Scarponi, G. “Spatial patterns of trematode-induced pits on bivalve skeletons: Challenges and prospects for research on parasite-host dynamics”. The Holocene, (<i>In press</i>). [PDF](https://doi.org/10.1177/09596836251366205)
