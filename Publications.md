@@ -2,9 +2,10 @@
 
 
 [UNDER REVIEW ARTICLES]
-<b>Rojas</b>, <b>A</b>., G. Mathes, A. Futschik. (2026):Causal analysis of rock-biodiversity relationships over the Phanerozoic challenges rock record bias and common cause hypothesis. Paleobiology.
+<b>Rojas</b>, <b>A</b>., G. Mathes, A. Futschik. (2026): Causal analysis of rock-biodiversity relationships over the Phanerozoic challenges rock record bias and common cause hypothesis. Paleobiology.
 
-Esteve, J., <b>Rojas</b>,  <b>A</b>., D. Balseiro, M.-G. Suárez. (2026): A multilayer network analysis of the trilobite fossil record reveals that biosphere-scale ecological mega-assemblages sequentially dominated Cambrian–Ordovician oceans. Proceedings of the Royal Society B.
+Esteve, J., <b>Rojas</b>,  <b>A</b>., D. Balseiro, M.-G. Suárez. (2026): A multilayer network analysis of the trilobite fossil record reveals that biosphere-scale ecological mega-assemblages sequentially dominated Cambrian–Ordovician oceans.
+Proceedings of the Royal Society B.
 
 [LIST OF PUBLICATIONS]
 
