@@ -2,9 +2,9 @@
 ---
 Cretaceous geology and paleontology of Northern South America
 
-![Biointeractions](assets/img/Fieldwork-image1.png)
+![Fieldwork](assets/img/Fieldwork-image1.png)
 I have had the opportunity to conduct geological and paleontological fieldwork in Colombia with the [Grupo de Investigación en Estratigrafía](http://www.hermes.unal.edu.co/pages/Consultas/Grupo.xhtml?idGrupo=2183&opcion=1) at the Universidad Nacional de Colombia, led by Professor Pedro Patarroyo, who has been an important mentor throughout my academic journey. My research has focused on the Cretaceous marine fossil record, particularly brachiopod assemblages and their taxonomy, biostratigraphic significance, and paleobiogeographic affinities.
-![Biointeractions](assets/img/Fieldwork-image2.png)
+![Fieldwork](assets/img/Fieldwork-image2.png)
 
 ---
 References
