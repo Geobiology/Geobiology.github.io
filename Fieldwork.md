@@ -1,4 +1,4 @@
-![Fieldwork](assets/img/Fieldwork-head1.png)
+![Fieldwork](assets/img/Fieldwork-head2.png)
 ---
 Cretaceous geology and paleontology of Northern South America
 
