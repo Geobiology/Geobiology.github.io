@@ -1,4 +1,4 @@
-![Fieldwork](assets/img/Fieldwork-head1.png)
+![Fieldwork](assets/img/Fieldwork-head6.png)
 ---
 Geology and paleontology of Northern South America
 
