@@ -24,4 +24,4 @@ Francisco J. Vega, Torrey Nyborg, Greg Kovalchuk, Javier Luque, <b>Alexis Rojas<
 
 Pedrp Patarroyo and <b>Alexis Rojas</b>. (2007): La sucesión y la fauna del Turoniano de la Formación San Rafael en pesca y su comparación con la sección tipo en Samacá (Boyacá- Colombia-s.a.). Geologia Colombiana, 89–96. [PDF](https://repositorio.unal.edu.co/handle/unal/42401)
 
-Francisco J. Vega, Torrey Nyborg,<b>Alexis Rojas</b>, Pedro Patarroyo, Javier Luque, Hector Porras-Múzquiz, and Wolfgang Stinnesbeck. “Upper Cretaceous Crustacea from Mexico and Colombia: Similar Faunas and Environments during Turonian Times.” Revista Mexicana De Ciencias Geologicas 24 (2007): 403–22. [PDF](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1026-87742007000300009&nrm=iso)
+Francisco J. Vega, Torrey Nyborg,<b>Alexis Rojas</b>, Pedro Patarroyo, Javier Luque, Hector Porras-Muzquiz, and Wolfgang Stinnesbeck. “Upper Cretaceous Crustacea from Mexico and Colombia: Similar Faunas and Environments during Turonian Times.” Revista Mexicana De Ciencias Geologicas 24 (2007): 403–22. [PDF](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1026-87742007000300009&nrm=iso)
