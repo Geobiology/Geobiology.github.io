@@ -7,4 +7,6 @@ I am a geoscientist working beyond disciplinary boundaries. My research explores
 
 Science education is an integral component of my research program and I aim to bridge the gap between research and teaching by promoting best practices in data collection, data-driven learning and systems thinking.
 
+Explore my fieldwork history through this interactive Google Earth tour
+
 Key words: _Nature, Society, Climate, Data-Driven Learning, Systems Thinking._
