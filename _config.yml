@@ -27,6 +27,7 @@ navbar-links:
     - Regionalization: "Bioregionalization"
     - Biointeractions: "Biointeractions"
     - Macroevolution: "Macroevolution"
+    - Research Sites: "Fieldwork"
   Notebooks:
     - Biospace: "Code"  
   Publications: "Publications"
