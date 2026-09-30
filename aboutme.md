@@ -3,9 +3,23 @@ layout: page
 title: Geobiology
 subtitle: Alexis Rojas
 ---
-I am a geoscientist working beyond disciplinary boundaries. My research explores the multiscale interactions among biological, physical, and societal components of natural and built environments (Earth System Interactions). I aim to answer the ultimate question of how the complex nature of life, climate, and society affects each other. 
+<div class="intro-section">
 
-Science education is an integral component of my research program and I aim to bridge the gap between research and teaching by promoting best practices in data collection, data-driven learning and systems thinking.
+<div class="intro-image">
+
+![aboutme](assets/img/France3.jpg)
+
+</div>
+
+<div class="intro-text">
+
+I am a geoscientist working beyond disciplinary boundaries. My research explores the multiscale interactions among biological, physical, and societal components of natural and built environments (Earth System Interactions). I aim to understand how the complex interactions among life, climate, and society shape the Earth system.
+
+Science education is an integral component of my research program, and I aim to bridge the gap between research and teaching by promoting best practices in data collection, data-driven learning, and systems thinking.
+
+</div>
+
+</div>
 
 Explore my fieldwork history through this interactive [Google Earth tour→](https://earthengine.google.com/timelapse/#tour=DOAofcI83dI5iQoHSouth%20America_AofcI83dI5iQiOColombia_Aofco5LdmxPQofVilla%20de%20Leyva%20-%20Boyaca_AofcRtWdGTPQofLa%20Paz%20-%20Santander_AofcX5idrQSQofZapatoca%20-%20Santander_AofcxUddv4XQofRio%20Nevado%20-%20Santander_AofcI83dI5iQiO_AofcQZceo15PofArchipelago%20of%20San%20Bernardo_AofcI83dI5iQiO_AofcekPeNZWPyQCentral%20America_AofcekPeNZWPvdPanama%20City%2C%20Panama_AofcekPeNZWPyQ_AofcpQket2cO3ZGuanacaste%20-%20Costa%20Rica_AofcekPeNZWPyQ_Selected%20Field%20Localities_B)
 
