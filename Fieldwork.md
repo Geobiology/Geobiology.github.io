@@ -40,5 +40,5 @@ Pedro Patarroyo  and <b>Alexis Rojas</b>. “La Sucesión y La Fauna Del Turonia
 
 [UNDERGRADUATED THESIS]
 
-<b>Alexis Rojas Briceño</b>. “Patrones de Distribución de La Fauna de Braquiópodos Pensilvanianos Del Rio Nevado, Colombia.” Tesis de pregrado. Departamento de Geociencias, Universidad Nacional de Colombia, 2008. Financiado por el Fondo Corrigan de la Asociación Colombiana de Geólogos y Geofísicos de la Energía (ACGGP) y la Corporación Geológica ARES. [PDF](https://www.acggp.org/fondo-corrigan)
+<b>Alexis Rojas Briceño</b>. “Patrones de Distribución de La Fauna de Braquiópodos Pensilvanianos Del Rio Nevado, Colombia.” Tesis de pregrado. Departamento de Geociencias, Universidad Nacional de Colombia, 2008. Financiado por el Fondo Corrigan de la Asociación Colombiana de Geólogos y Geofísicos de la Energía (ACGGP) y Corporación Geológica ARES. [PDF](https://www.acggp.org/fondo-corrigan)
 
