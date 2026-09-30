@@ -35,5 +35,6 @@ Francisco J. Vega, Torrey Nyborg,<b>Alexis Rojas</b>, Pedro Patarroyo, Javier Lu
 Pedro Patarroyo  and <b>Alexis Rojas</b>. “La Sucesión y La Fauna Del Turoniano de La Formación San Rafael En Pesca y Su Comparación Con La Sección Tipo En Samacá (Boyacá- Colombia-s.a.).” Geologia Colombiana, no. 32 (2007): 89–96. [PDF](https://repositorio.unal.edu.co/handle/unal/42401)
 
 [UNDERGRADUATED THESIS]
+
 <b>Alexis Rojas Briceño</b>. “Patrones de Distribución de La Fauna de Braquiópodos Pensilvanianos Del Rio Nevado, Colombia.” Tesis de pregrado. Departamento de Geociencias, Universidad Nacional de Colombia, 2008. Financiado por el Fondo Corrigan de la Asociación Colombiana de Geólogos y Geofísicos de la Energía (ACGGP) y la Corporación Geológica ARES. [PDF](https://www.acggp.org/fondo-corrigan)
 
