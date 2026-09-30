@@ -17,12 +17,12 @@ ___
 ![Fieldwork](assets/img/Montana.png)
 
 ___
-### THESES
+### Theses
 <b>Alexis Rojas</b>. “Paleobiological Implications of the Post-Paleozoic Fossil Record of the Lingulide Brachiopods and Associated Faunas. CHAPTER 2 LOWER CRETACEOUS BRACHIOPODS FROM COLOMBIA (SOUTH AMERICA): BIOSTRATIGRAPHIC SIGNIFICANCE AND PALEOGEOGRAPHIC IMPLICATIONS". PhD Thesis, University of Florida, 2017. [PDF](https://ufdcimages.uflib.ufl.edu/UF/E0/05/12/69/00001/ROJAS_A.pdf)
 
 <b>Alexis Rojas</b>. “Patrones de Distribución de La Fauna de Braquiópodos Pensilvanianos Del Rio Nevado, Colombia.” Tesis de pregrado. Departamento de Geociencias, Universidad Nacional de Colombia, 2008. Financiado por el Fondo Corrigan de la Asociación Colombiana de Geólogos y Geofísicos de la Energía (ACGGP) y Corporación Geológica ARES. [PDF](https://www.acggp.org/fondo-corrigan)
 
-### PUBLICATIONS
+### Publications
 <b>Alexis Rojas</b> and Michael R. Sandy. “Early Cretaceous (Valanginian) Brachiopods from the Rosablanca Formation, Colombia, South America: Biostratigraphic Significance and Paleogeographic Implications.” Cretaceous Research 96 (April 2019): 184–195 [PDF](https://doi.org/10.1016/j.cretres.2018.12.011)
 
 Michael R. Sandy and <b>Alexis Rojas</b>. “Paleobiogeographic Affinities, Biostratigraphic Potential, and Taxonomy of Cretaceous Terebratulide Brachiopods from Colombia.” In Geological Society of America Abstracts with Programs, 50 (6):325121. Indianapolis, Indiana, USA: The Geological Society of America, 2018. [PDF](https://gsa.confex.com/gsa/2018AM/webprogram/Paper325121.html)
