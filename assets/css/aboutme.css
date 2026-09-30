@@ -23,6 +23,17 @@
   margin-top: 0;
 }
 
+/* Earth image */
+.earth-image {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.earth-image img {
+  display: block;
+  margin: 0;
+}
+
 @media (max-width: 768px) {
   .intro-section {
     flex-direction: column;
