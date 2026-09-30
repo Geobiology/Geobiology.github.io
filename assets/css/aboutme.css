@@ -2,7 +2,7 @@
   display: flex;
   align-items: center;
   gap: 20px;
-  margin-bottom: 5px;
+  margin-bottom: 0;
 }
 
 .intro-image {
@@ -17,6 +17,10 @@
 
 .intro-text {
   flex: 1;
+}
+
+.intro-section + p {
+  margin-top: 0;
 }
 
 @media (max-width: 768px) {
