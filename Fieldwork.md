@@ -10,6 +10,7 @@ Explore my fieldwork history in the tropics through this interactive [Google Ear
 Geology and Paleontology in Central America
 ---
 ![Fieldwork](assets/img/Panama.png)
+
 ---
 Geology and Paleontology in North America
 ---
