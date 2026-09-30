@@ -14,7 +14,7 @@ css: /assets/css/aboutme.css
   <div class="intro-text">
 
     <p>
-      I am a geoscientist working beyond disciplinary boundaries. My research program explores the interactions among biological, physical, and societal components of natural and built environments. I aim to understand how the complex nature of life, climate, and society affects one another. Science education is an integral component of my program and I aim to bridge the gap between research and teaching by promoting best practices in data collection, data-driven learning and systems thinking.
+      I am a geoscientist working beyond disciplinary boundaries. My research program explores the interactions among biological, physical, and societal components of natural and built environments. I aim to understand how the complex nature of life, climate, and society affects one another. Science education is an integral component of my program and I aim to bridge the gap between research and teaching by promoting best practices in data collection, data-driven learning, and systems thinking.
     </p>
 
   </div>
