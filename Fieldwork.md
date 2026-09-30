@@ -39,7 +39,7 @@ Mena Schemm-Gregory, <b>Alexis Rojas</b>, Pedro Patarroyo and Carlos Jaramillo. 
 
 <b>Alexis Rojas</b>. “The First Record of Lower Cretaceous Lingulidae (Brachiopoda) From the Tropical America.” In Geological Society of America Abstracts with Programs, 45 (2):10. San Juan, Puerto Rico: The Geological Society of America, 2013. [PDF](https://gsa.confex.com/gsa/2013SE/webprogram/Paper215804.html)
 
-<b>Alexis Rojas</b>, Mena Schemm-Gregory, Austin J. W. Hendy, Javier Luque, and Carlos Jaramillo. “New Records of Lingulid Brachiopods from Northern South America and Their Biogeographical Implications.” In 54th PalAss Meeting Abstracts with Programs, 75:69. Ghent, Belgium: The Palaeontological Association, 2010. [PDF](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://palass.org/sites/default/files/media/annual_meetings/2010/annual_meeting_2010_abstracts_programme.pdf)
+<b>Alexis Rojas</b>, Mena Schemm-Gregory, Austin J. W. Hendy, Javier Luque, and Carlos Jaramillo. “New Records of Lingulid Brachiopods from Northern South America and Their Biogeographical Implications.” In 54th PalAss Meeting Abstracts with Programs, 75:69. Ghent, Belgium: The Palaeontological Association, 2010. [PDF](https://palass.org/past-meeting-programmes-and-abstracts)
 
 Francisco J. Vega, Torrey Nyborg, Greg Kovalchuk, Javier Luque, <b>Alexis Rojas</b>., Pedro Patarroyo, Héctor Porras-Múzquiz, Adam Armstrong, Hermann Bermúdez, and Luis Garibay. “On Some Panamerican Cretaceous Crabs (Decapoda: Raninoida).” Boletín de La Sociedad Geológica Mexicana 62, no. 2 (2010): 263–279. [PDF](http://www.jstor.org/stable/24921180)
 
