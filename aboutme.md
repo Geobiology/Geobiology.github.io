@@ -2,7 +2,7 @@
 layout: page
 title: Geobiology
 subtitle: Alexis Rojas
-css: "/assets/css/aboutme.css"
+css: /assets/css/aboutme.css
 ---
 
 <div class="intro-section">
@@ -12,6 +12,7 @@ css: "/assets/css/aboutme.css"
   </div>
 
   <div class="intro-text">
+
     <p>
       I am a geoscientist working beyond disciplinary boundaries. My research explores
       the multiscale interactions among biological, physical, and societal components
@@ -24,6 +25,7 @@ css: "/assets/css/aboutme.css"
       bridge the gap between research and teaching by promoting best practices in data
       collection, data-driven learning, and systems thinking.
     </p>
+
   </div>
 
 </div>
