@@ -14,7 +14,7 @@ css: /assets/css/aboutme.css
   <div class="intro-text">
 
     <p>
-      I am a geoscientist working beyond disciplinary boundaries. My research explores the multiscale interactions among biological, physical, and societal       components of natural and built environments (Earth System Interactions). I aim to understand how the complex nature of life, climate, and society          shape the Earth system.
+      I am a geoscientist working beyond disciplinary boundaries. My research explores the multiscale interactions among biological, physical, and societal components of natural and built environments (Earth System Interactions). I aim to understand how the complex nature of life, climate, and society          shape the Earth system.
     </p>
 
   </div>
