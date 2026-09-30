@@ -8,6 +8,8 @@
 Esteve, J., <b>Rojas</b>,  <b>A</b>., D. Balseiro, M.-G. Suárez. (2026): A multilayer network analysis of the trilobite fossil record reveals that biosphere-scale ecological mega-assemblages sequentially dominated Cambrian–Ordovician oceans.
 Proceedings of the Royal Society B.
 
+Elizabeth M. Dowding, Adriane R. Lam, Luis Collantes, James Holmes, Lukas Laibl, Katherine Jordan-Burmeister, María Gabriela Suárez, Jorge Esteve, Kelsey Lucas, Fernanda Serra, Mark Nikolic, <b>Alexis Rojas</b>, Harriet Drage, and Stephen Pates. “Low-Latitude Within-Area Speciation Drove Early Trilobite Bioregionalisation”. Proceedings of the Royal Society B.
+
 [LIST OF PUBLICATIONS]
 
 Dowding, E. M., A. Skawina, K. De Baets, T. Clements, P. Dentzien-Dias, J. W. Huntley, Á. T. Kocsis, C. C. Labandeira, L. H. Liow, E. Petsios, <b>A</b>. <b>Rojas</b>, J. A. Smith, K. Vanadzina, and D. Chattopadhyay. (2026): Interpreting Biotic Interactions in the Fossil Record: Evidence and Evolutionary Significance. Annual Review of Ecology, Evolution, and Systematics, 57. [PDF](https://doi.org/10.1146/annurev-ecolsys-102924-044136)
