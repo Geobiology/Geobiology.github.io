@@ -8,7 +8,7 @@ css: /assets/css/aboutme.css
 <div class="intro-section">
 
   <div class="intro-image">
-    <img src="{{ '/assets/img/France2.png' | relative_url }}" alt="Alexis Rojas">
+    <img src="{{ '/assets/img/France8.png' | relative_url }}" alt="Alexis Rojas">
   </div>
 
   <div class="intro-text">
