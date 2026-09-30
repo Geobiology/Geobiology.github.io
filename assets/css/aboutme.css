@@ -27,10 +27,10 @@
 
 .earth-section {
   display: grid;
-  grid-template-columns: 90% 10%;
-  gap: 20px;
+  grid-template-columns: 85% 15%;
+  gap: 0px;
   align-items: center;
-  margin-top: 10px;
+  margin-top: 0px;
 }
 
 .earth-text {
