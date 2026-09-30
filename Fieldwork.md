@@ -9,6 +9,7 @@ Explore my fieldwork history in the tropics through this interactive [Google Ear
 ---
 Geology and Paleontology in Central America
 ---
+For a broader overview of my fieldwork experience beyond Colombia, visit the main page.
 ![Fieldwork](assets/img/Panama.png)
 
 ---
