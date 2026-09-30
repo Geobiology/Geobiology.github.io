@@ -27,7 +27,7 @@
 
 .earth-section {
   display: grid;
-  grid-template-columns: 85% 15%;
+  grid-template-columns: 80% 20%;
   gap: 0px;
   align-items: center;
   margin-top: 0px;
