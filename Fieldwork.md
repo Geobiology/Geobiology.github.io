@@ -1,23 +1,24 @@
 ![Fieldwork](assets/img/Fieldwork-head6.png)
----
-Geology and paleontology of Northern South America
----
+
+___
+### Geology and paleontology of Northern South America
 I have been carrying out geological and paleontological fieldwork in Colombia with the [Grupo de Investigación en Estratigrafía](http://www.hermes.unal.edu.co/pages/Consultas/Grupo.xhtml?idGrupo=2183&opcion=1) at the Universidad Nacional de Colombia, led by Professor Pedro Patarroyo, who has been an important mentor throughout my academic journey. My research has focused on the Upper Paleozoic and Cretaceous marine fossil record, particularly brachiopod assemblages and their taxonomy, biostratigraphic significance, and paleobiogeographic affinities.
 ![Fieldwork](assets/img/Fieldwork-image2.png)
 Explore my fieldwork history in the tropics through this interactive [Google Earth tour→](https://earthengine.google.com/timelapse/#tour=DOAofcI83dI5iQoHSouth%20America_AofcI83dI5iQiOColombia_Aofco5LdmxPQofVilla%20de%20Leyva%20-%20Boyaca_AofcRtWdGTPQofLa%20Paz%20-%20Santander_AofcX5idrQSQofZapatoca%20-%20Santander_AofcxUddv4XQofRio%20Nevado%20-%20Santander_AofcI83dI5iQiO_AofcQZceo15PofArchipelago%20of%20San%20Bernardo_AofcI83dI5iQiO_AofcekPeNZWPyQCentral%20America_AofcekPeNZWPvdPanama%20City%2C%20Panama_AofcekPeNZWPyQ_AofcpQket2cO3ZGuanacaste%20-%20Costa%20Rica_AofcekPeNZWPyQ_Selected%20Field%20Localities_B)
 
----
-Geology and Paleontology in Central America
----
+___
+### Geology and Paleontology in Central America
 
 For a broader overview of my fieldwork experience beyond Colombia, visit the main page.
 ![Fieldwork](assets/img/Panama.png)
 
----
-Geology and Paleontology in North America
----
+___
+### Geology and Paleontology in North America
+___
 ![Fieldwork](assets/img/Montana.png)
-References
+
+___
+### References
 
 <b>Alexis Rojas</b> and Michael R. Sandy. “Early Cretaceous (Valanginian) Brachiopods from the Rosablanca Formation, Colombia, South America: Biostratigraphic Significance and Paleogeographic Implications.” Cretaceous Research 96 (April 2019): 184–195 [PDF](https://doi.org/10.1016/j.cretres.2018.12.011)
 
