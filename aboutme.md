@@ -24,7 +24,7 @@ css: /assets/css/aboutme.css
   <div class="earth-text">
     <p>
       Explore my fieldwork history through this interactive
-      <a href="https://earthengine.google.com/timelapse/#tour=DOAofcI83dI5iQoHSouth%20America_AofcI83dI5iQiOColombia_Aofco5LdmxPQofVilla%20de%20Leyva%20-%20Boyaca_AofcRtWdGTPQofLa%20Paz%20-%20Santander_AofcX5idrQSQofZapatoca%20-%20Santander_AofcxUddv4XQofRio%20Nevado_AofcI83dI5iQiO_AofcQZceo15PofArchipelago%20of%20San%20Bernardo_AofcI83dI5iQiO_AofcekPeNZWPyQCentral%20America_AofcekPeNZWPyQ_AofcpQket2cO3ZGuanacaste%20-%20Costa%20Rica_AofcekPeNZWPyQ_Selected%20Field%20Localities_B" target="_blank">Google Earth tour</a>.
+      <a href="https://earthengine.google.com/timelapse/#tour=DOAofcI83dI5iQoHSouth%20America_AofcI83dI5iQiOColombia_Aofco5LdmxPQofVilla%20de%20Leyva%20-%20Boyaca_AofcRtWdGTPQofLa%20Paz%20-%20Santander_AofcX5idrQSQofZapatoca%20-%20Santander_AofcxUddv4XQofRio%20Nevado_AofcI83dI5iQiO_AofcQZceo15PofArchipelago%20of%20San%20Bernardo_AofcI83dI5iQiO_AofcekPeNZWPyQCentral%20America_AofcekPeNZWPyQ_AofcpQket2cO3ZGuanacaste%20-%20Costa%20Rica_AofcekPeNZWPyQ_Selected%20Field%20Localities_B" target="_blank">Google Earth tour ⟶</a>
     </p>
   </div>
 
