@@ -7,7 +7,7 @@ subtitle: Alexis Rojas
 
 <div class="intro-image">
 
-![aboutme](assets/img/France3.jpg)
+![aboutme](assets/img/France3.png)
 
 </div>
 
