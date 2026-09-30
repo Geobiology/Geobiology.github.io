@@ -14,7 +14,6 @@ For a broader overview of my fieldwork experience beyond Colombia, visit the mai
 
 ___
 ### Geology and Paleontology in North America
-___
 ![Fieldwork](assets/img/Montana.png)
 
 ___
