@@ -1,14 +1,18 @@
 ![Images Papers](assets/img/Images_Papers_2023.png)
 
+[IN PREPARATION]
+
+<b>Alexis Rojas</b>, Gregor Mathes, and Andreas Futschik. Causal analysis of rock-biodiversity relationships over the Phanerozoic challenges rock record bias and common cause hypothesis. In preparation for submission to Geology.
+
+<b>Alexis Rojas</b>, Anton Holmgren, Pedro Patarroyo, and Christian Salazar. “The mid-Cretaceous saga: A multilayer network analysis of fossil cephalopods supports the three-fold natural division of the Cretaceous”. In preparation for submission to Cretaceous Research.
 
 [UNDER REVIEW ARTICLES]
 
-<b>Rojas</b>, <b>A</b>., G. Mathes, A. Futschik. (2026): Causal analysis of rock-biodiversity relationships over the Phanerozoic challenges rock record bias and common cause hypothesis. Paleobiology.
+Gregor Mathes, <b>Alexis Rojas</b>, and Andreas Futschik. 'Methods for causal inference in paleobiology". Under review in Paleobiology (PAB-2026-0081).
 
-Esteve, J., <b>Rojas</b>,  <b>A</b>., D. Balseiro, M.-G. Suárez. (2026): A multilayer network analysis of the trilobite fossil record reveals that biosphere-scale ecological mega-assemblages sequentially dominated Cambrian–Ordovician oceans.
-Proceedings of the Royal Society B.
+Esteve, J., <b>Rojas</b>,  <b>A</b>., D. Balseiro, M.-G. Suárez. "A multilayer network analysis of the trilobite fossil record reveals that biosphere-scale ecological mega-assemblages sequentially dominated Cambrian–Ordovician oceans". Under review in Geology (G54194).
 
-Elizabeth M. Dowding, Adriane R. Lam, Luis Collantes, James Holmes, Lukas Laibl, Katherine Jordan-Burmeister, María Gabriela Suárez, Jorge Esteve, Kelsey Lucas, Fernanda Serra, Mark Nikolic, <b>Alexis Rojas</b>, Harriet Drage, and Stephen Pates. “Low-Latitude Within-Area Speciation Drove Early Trilobite Bioregionalisation”. Proceedings of the Royal Society B.
+Elizabeth M. Dowding, Adriane R. Lam, Luis Collantes, James Holmes, Lukas Laibl, Katherine Jordan-Burmeister, María Gabriela Suárez, Jorge Esteve, Kelsey Lucas, Fernanda Serra, Mark Nikolic, <b>Alexis Rojas</b>, Harriet Drage, and Stephen Pates. “Low-Latitude Within-Area Speciation Drove Early Trilobite Bioregionalisation”. Under review in Proceedings of the Royal Society B.
 
 [LIST OF PUBLICATIONS]
 
