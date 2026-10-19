@@ -22,7 +22,7 @@ Dowding, E. M., A. Skawina, K. De Baets, T. Clements, P. Dentzien-Dias, J. W. Hu
 
 B. Kroger and <b>Rojas</b>, <b>A</b>. (2026): The aging of eco-genealogical units during the Phanerozoic. Paleobiology, p. 1–15. [PDF](https://www.cambridge.org/core/journals/paleobiology/article/aging-of-ecogenealogical-units-during-the-phanerozoic/5B8B3D6DCEC3BF2922D09AC75F7ADAE5)
 
-<b>Rojas</b>, <b>A</b>., Scarponi, D, and J. W. Huntley. (2025): Data from Spatial patterns of trematode-induced pits on Chamelea gallina. Mendeley Data, Version 2. [DOI:](https://doi.org/10.17632/yvk95x9nxc.2)
+<b>Rojas</b>, <b>A</b>., Scarponi, D, and J. W. Huntley. (2025): Data from Spatial patterns of trematode-induced pits on Chamelea gallina. Mendeley Data, Version 2. [DOI](https://doi.org/10.17632/yvk95x9nxc.2)
 
 <b>Rojas</b>, <b>A</b>., J. W. Huntley, M. Caffara, and D. Scarponi. (2025): Spatial patterns of trematode-induced pits on bivalve skeletons: Challenges and prospects for research on parasite-host dynamics. The Holocene, 35:1259–1271. [PDF](https://doi.org/10.1177/09596836251366205)
 
